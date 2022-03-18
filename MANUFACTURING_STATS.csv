@@ -1,0 +1,2045 @@
+INDUSTRY,QUARTER,YEAR,UTILISATION,UNDER_UTILISATION
+Food and food products,4,2003,79.4,20.6
+Food and food products,1,2004,79.5,20.5
+Food and food products,2,2004,80.5,19.5
+Food and food products,3,2004,81.2,18.8
+Food and food products,4,2004,83.4,16.6
+Food and food products,1,2005,82.3,17.7
+Food and food products,2,2005,83.6,16.4
+Food and food products,3,2005,83.8,16.2
+Food and food products,4,2005,87.4,12.7
+Food and food products,1,2006,82.1,17.9
+Food and food products,2,2006,84.0,16.1
+Food and food products,3,2006,83.4,16.6
+Food and food products,4,2006,85.4,14.7
+Food and food products,1,2007,82.5,17.5
+Food and food products,2,2007,84.3,15.7
+Food and food products,3,2007,81.7,18.3
+Food and food products,4,2007,83.5,16.5
+Food and food products,1,2008,81.0,19.0
+Food and food products,2,2008,81.2,18.8
+Food and food products,3,2008,82.0,18.0
+Food and food products,4,2008,82.4,17.6
+Food and food products,1,2009,79.3,20.7
+Food and food products,2,2009,82.1,17.9
+Food and food products,3,2009,82.6,17.4
+Food and food products,4,2009,84.5,15.5
+Food and food products,1,2010,80.6,19.4
+Food and food products,2,2010,81.8,18.2
+Food and food products,3,2010,82.4,17.6
+Food and food products,4,2010,82.3,17.7
+Food and food products,1,2011,79.8,20.2
+Food and food products,2,2011,81.9,18.1
+Food and food products,3,2011,83.4,16.6
+Food and food products,4,2011,84.6,15.4
+Food and food products,1,2012,81.2,18.8
+Food and food products,2,2012,84.0,16.0
+Food and food products,3,2012,82.5,17.5
+Food and food products,4,2012,84.9,15.1
+Food and food products,1,2013,77.4,22.6
+Food and food products,2,2013,83.1,16.9
+Food and food products,3,2013,85.4,14.6
+Food and food products,4,2013,83.6,16.4
+Food and food products,1,2014,80.4,19.6
+Food and food products,2,2014,80.0,20.0
+Food and food products,3,2014,83.0,17.0
+Food and food products,4,2014,83.5,16.5
+Food and food products,1,2015,81.8,18.2
+Food and food products,2,2015,83.5,16.5
+Food and food products,3,2015,84.3,15.7
+Food and food products,4,2015,82.4,17.6
+Food and food products,1,2016,82.4,17.6
+Food and food products,2,2016,82.4,17.6
+Food and food products,3,2016,84.1,15.9
+Food and food products,4,2016,83.7,16.3
+Food and food products,1,2017,81.7,18.3
+Food and food products,2,2017,82.8,17.2
+Food and food products,3,2017,83.0,17.0
+Food and food products,4,2017,84.0,16.0
+Food and food products,1,2018,81.3,18.7
+Food and food products,2,2018,81.2,18.8
+Food and food products,3,2018,81.3,18.7
+Food and food products,4,2018,84.0,16.0
+Food and food products,1,2019,81.4,18.6
+Food and food products,2,2019,81.6,18.4
+Food and food products,3,2019,82.2,17.8
+Food and food products,4,2019,83.7,16.3
+Food and food products,1,2020,70.7,29.3
+Food and food products,2,2020,79.1,20.9
+Food and food products,3,2020,80.3,19.7
+Food and food products,4,2020,83.2,16.8
+Food and food products,1,2021,70.0,30.0
+Food and food products,2,2021,82.4,17.6
+Food and food products,3,2021,82.7,17.3
+Food and food products,4,2021,81.7,18.3
+Beverages,4,2003,72.9,27.1
+Beverages,1,2004,70.3,29.7
+Beverages,2,2004,72.8,27.2
+Beverages,3,2004,77.1,22.9
+Beverages,4,2004,80.0,20.0
+Beverages,1,2005,76.1,23.9
+Beverages,2,2005,77.5,22.5
+Beverages,3,2005,79.2,20.8
+Beverages,4,2005,83.0,17.0
+Beverages,1,2006,80.7,19.3
+Beverages,2,2006,80.7,19.3
+Beverages,3,2006,84.4,15.6
+Beverages,4,2006,81.2,18.8
+Beverages,1,2007,81.0,19.0
+Beverages,2,2007,81.9,18.1
+Beverages,3,2007,81.4,18.6
+Beverages,4,2007,82.6,17.4
+Beverages,1,2008,80.9,19.1
+Beverages,2,2008,79.4,20.6
+Beverages,3,2008,82.3,17.7
+Beverages,4,2008,82.6,17.4
+Beverages,1,2009,77.9,22.1
+Beverages,2,2009,76.4,23.6
+Beverages,3,2009,78.3,21.7
+Beverages,4,2009,81.9,18.1
+Beverages,1,2010,76.9,23.1
+Beverages,2,2010,77.2,22.8
+Beverages,3,2010,76.0,24.0
+Beverages,4,2010,81.4,18.6
+Beverages,1,2011,78.8,21.2
+Beverages,2,2011,79.7,20.3
+Beverages,3,2011,81.2,18.8
+Beverages,4,2011,82.7,17.3
+Beverages,1,2012,81.9,18.1
+Beverages,2,2012,81.6,18.4
+Beverages,3,2012,81.1,18.9
+Beverages,4,2012,83.5,16.5
+Beverages,1,2013,81.7,18.3
+Beverages,2,2013,81.2,18.8
+Beverages,3,2013,83.2,16.8
+Beverages,4,2013,86.3,13.7
+Beverages,1,2014,84.2,15.8
+Beverages,2,2014,82.6,17.4
+Beverages,3,2014,85.6,14.4
+Beverages,4,2014,86.0,14.0
+Beverages,1,2015,84.7,15.3
+Beverages,2,2015,82.8,17.2
+Beverages,3,2015,82.4,17.6
+Beverages,4,2015,88.3,11.7
+Beverages,1,2016,85.6,14.4
+Beverages,2,2016,85.5,14.5
+Beverages,3,2016,85.1,14.9
+Beverages,4,2016,88.1,11.9
+Beverages,1,2017,82.8,17.2
+Beverages,2,2017,84.5,15.5
+Beverages,3,2017,84.7,15.3
+Beverages,4,2017,87.6,12.4
+Beverages,1,2018,83.4,16.6
+Beverages,2,2018,83.8,16.2
+Beverages,3,2018,81.4,18.6
+Beverages,4,2018,88.5,11.5
+Beverages,1,2019,84.2,15.8
+Beverages,2,2019,83.1,16.9
+Beverages,3,2019,84.3,15.7
+Beverages,4,2019,89.3,10.7
+Beverages,1,2020,78.2,21.8
+Beverages,2,2020,35.3,64.7
+Beverages,3,2020,57.8,42.2
+Beverages,4,2020,86.6,13.4
+Beverages,1,2021,75.4,24.6
+Beverages,2,2021,82.1,17.9
+Beverages,3,2021,82.3,17.7
+Beverages,4,2021,84.1,15.9
+Textiles,4,2003,79.1,20.9
+Textiles,1,2004,80.5,19.5
+Textiles,2,2004,81.9,18.1
+Textiles,3,2004,82.2,17.8
+Textiles,4,2004,78.0,22.0
+Textiles,1,2005,78.7,21.3
+Textiles,2,2005,81.1,18.9
+Textiles,3,2005,82.2,17.9
+Textiles,4,2005,86.8,13.2
+Textiles,1,2006,84.6,15.4
+Textiles,2,2006,85.6,14.4
+Textiles,3,2006,86.4,13.6
+Textiles,4,2006,86.3,13.7
+Textiles,1,2007,83.9,16.1
+Textiles,2,2007,83.5,16.5
+Textiles,3,2007,83.9,16.1
+Textiles,4,2007,83.8,16.3
+Textiles,1,2008,81.3,18.7
+Textiles,2,2008,79.6,20.4
+Textiles,3,2008,80.8,19.2
+Textiles,4,2008,81.2,18.8
+Textiles,1,2009,74.2,25.8
+Textiles,2,2009,72.2,27.8
+Textiles,3,2009,67.4,32.6
+Textiles,4,2009,72.2,27.9
+Textiles,1,2010,71.3,28.7
+Textiles,2,2010,73.3,26.7
+Textiles,3,2010,70.8,29.2
+Textiles,4,2010,72.1,27.9
+Textiles,1,2011,72.1,27.9
+Textiles,2,2011,69.7,30.3
+Textiles,3,2011,69.7,30.3
+Textiles,4,2011,71.2,28.8
+Textiles,1,2012,71.8,28.2
+Textiles,2,2012,69.7,30.3
+Textiles,3,2012,70.4,29.6
+Textiles,4,2012,72.7,27.3
+Textiles,1,2013,71.2,28.8
+Textiles,2,2013,69.3,30.7
+Textiles,3,2013,71.7,28.3
+Textiles,4,2013,73.9,26.1
+Textiles,1,2014,69.1,30.9
+Textiles,2,2014,69.1,30.9
+Textiles,3,2014,68.8,31.2
+Textiles,4,2014,73.0,27.0
+Textiles,1,2015,71.8,28.2
+Textiles,2,2015,69.6,30.4
+Textiles,3,2015,70.7,29.3
+Textiles,4,2015,70.8,29.2
+Textiles,1,2016,69.8,30.2
+Textiles,2,2016,68.0,32.0
+Textiles,3,2016,68.2,31.8
+Textiles,4,2016,69.5,30.5
+Textiles,1,2017,66.0,34.0
+Textiles,2,2017,65.7,34.3
+Textiles,3,2017,65.2,34.8
+Textiles,4,2017,66.6,33.4
+Textiles,1,2018,65.4,34.6
+Textiles,2,2018,66.0,34.0
+Textiles,3,2018,66.4,33.6
+Textiles,4,2018,68.5,31.5
+Textiles,1,2019,67.7,32.3
+Textiles,2,2019,66.1,33.9
+Textiles,3,2019,66.1,33.9
+Textiles,4,2019,66.7,33.3
+Textiles,1,2020,66.0,34.0
+Textiles,2,2020,55.0,45.0
+Textiles,3,2020,54.5,45.5
+Textiles,4,2020,66.0,34.0
+Textiles,1,2021,65.3,34.7
+Textiles,2,2021,67.3,32.7
+Textiles,3,2021,66.3,33.7
+Textiles,4,2021,65.7,34.3
+Wearing apparel,4,2003,90.7,9.3
+Wearing apparel,1,2004,91.6,8.4
+Wearing apparel,2,2004,91.7,8.3
+Wearing apparel,3,2004,94.0,6.0
+Wearing apparel,4,2004,92.9,7.1
+Wearing apparel,1,2005,83.1,16.9
+Wearing apparel,2,2005,80.8,19.2
+Wearing apparel,3,2005,81.8,18.2
+Wearing apparel,4,2005,84.5,15.5
+Wearing apparel,1,2006,80.5,19.5
+Wearing apparel,2,2006,83.0,17.0
+Wearing apparel,3,2006,84.1,15.9
+Wearing apparel,4,2006,86.9,13.1
+Wearing apparel,1,2007,83.1,17.0
+Wearing apparel,2,2007,81.3,18.7
+Wearing apparel,3,2007,83.4,16.6
+Wearing apparel,4,2007,84.9,15.1
+Wearing apparel,1,2008,83.2,16.8
+Wearing apparel,2,2008,83.2,16.8
+Wearing apparel,3,2008,82.7,17.3
+Wearing apparel,4,2008,81.3,18.7
+Wearing apparel,1,2009,80.3,19.7
+Wearing apparel,2,2009,80.4,19.6
+Wearing apparel,3,2009,78.7,21.3
+Wearing apparel,4,2009,80.2,19.8
+Wearing apparel,1,2010,76.0,24.0
+Wearing apparel,2,2010,76.4,23.6
+Wearing apparel,3,2010,76.7,23.3
+Wearing apparel,4,2010,79.3,20.7
+Wearing apparel,1,2011,76.7,23.3
+Wearing apparel,2,2011,79.7,20.3
+Wearing apparel,3,2011,77.2,22.8
+Wearing apparel,4,2011,80.9,19.1
+Wearing apparel,1,2012,77.5,22.5
+Wearing apparel,2,2012,77.3,22.7
+Wearing apparel,3,2012,80.8,19.2
+Wearing apparel,4,2012,86.0,14.0
+Wearing apparel,1,2013,80.9,19.1
+Wearing apparel,2,2013,81.6,18.4
+Wearing apparel,3,2013,80.4,19.6
+Wearing apparel,4,2013,81.7,18.3
+Wearing apparel,1,2014,80.0,20.0
+Wearing apparel,2,2014,77.6,22.4
+Wearing apparel,3,2014,79.1,20.9
+Wearing apparel,4,2014,80.5,19.5
+Wearing apparel,1,2015,79.4,20.6
+Wearing apparel,2,2015,78.9,21.1
+Wearing apparel,3,2015,78.9,21.1
+Wearing apparel,4,2015,79.3,20.7
+Wearing apparel,1,2016,78.3,21.7
+Wearing apparel,2,2016,77.0,23.0
+Wearing apparel,3,2016,77.0,23.0
+Wearing apparel,4,2016,76.9,23.1
+Wearing apparel,1,2017,75.8,24.2
+Wearing apparel,2,2017,75.1,24.9
+Wearing apparel,3,2017,74.8,25.2
+Wearing apparel,4,2017,75.7,24.3
+Wearing apparel,1,2018,75.6,24.4
+Wearing apparel,2,2018,74.8,25.2
+Wearing apparel,3,2018,74.6,25.4
+Wearing apparel,4,2018,74.9,25.1
+Wearing apparel,1,2019,75.8,24.2
+Wearing apparel,2,2019,75.1,24.9
+Wearing apparel,3,2019,74.8,25.2
+Wearing apparel,4,2019,75.3,24.7
+Wearing apparel,1,2020,75.2,24.8
+Wearing apparel,2,2020,31.8,68.2
+Wearing apparel,3,2020,56.9,43.1
+Wearing apparel,4,2020,73.8,26.2
+Wearing apparel,1,2021,73.5,26.5
+Wearing apparel,2,2021,72.4,27.6
+Wearing apparel,3,2021,71.5,28.5
+Wearing apparel,4,2021,72.9,27.1
+Leather,4,2003,87.0,13.0
+Leather,1,2004,84.7,15.3
+Leather,2,2004,80.7,19.3
+Leather,3,2004,82.1,17.9
+Leather,4,2004,82.6,17.4
+Leather,1,2005,75.4,24.6
+Leather,2,2005,80.4,19.6
+Leather,3,2005,80.0,20.1
+Leather,4,2005,81.8,18.3
+Leather,1,2006,81.6,18.4
+Leather,2,2006,77.6,22.4
+Leather,3,2006,72.5,27.5
+Leather,4,2006,85.3,14.7
+Leather,1,2007,80.3,19.8
+Leather,2,2007,74.3,25.7
+Leather,3,2007,75.8,24.2
+Leather,4,2007,77.2,22.8
+Leather,1,2008,78.5,21.5
+Leather,2,2008,80.2,19.8
+Leather,3,2008,77.8,22.2
+Leather,4,2008,73.3,26.7
+Leather,1,2009,70.4,29.6
+Leather,2,2009,68.8,31.2
+Leather,3,2009,71.3,28.7
+Leather,4,2009,72.0,28.0
+Leather,1,2010,72.8,27.2
+Leather,2,2010,77.5,22.5
+Leather,3,2010,66.7,33.3
+Leather,4,2010,76.7,23.3
+Leather,1,2011,76.5,23.5
+Leather,2,2011,71.6,28.4
+Leather,3,2011,64.0,36.0
+Leather,4,2011,75.5,24.5
+Leather,1,2012,71.9,28.1
+Leather,2,2012,71.3,28.7
+Leather,3,2012,64.6,35.4
+Leather,4,2012,69.6,30.4
+Leather,1,2013,63.6,36.4
+Leather,2,2013,67.9,32.1
+Leather,3,2013,69.0,31.0
+Leather,4,2013,75.5,24.5
+Leather,1,2014,70.7,29.3
+Leather,2,2014,69.9,30.1
+Leather,3,2014,62.7,37.3
+Leather,4,2014,74.6,25.4
+Leather,1,2015,70.3,29.7
+Leather,2,2015,74.5,25.5
+Leather,3,2015,74.5,25.5
+Leather,4,2015,74.4,25.6
+Leather,1,2016,74.7,25.3
+Leather,2,2016,75.9,24.1
+Leather,3,2016,71.8,28.2
+Leather,4,2016,75.0,25.0
+Leather,1,2017,74.6,25.4
+Leather,2,2017,71.8,28.2
+Leather,3,2017,70.5,29.5
+Leather,4,2017,74.3,25.7
+Leather,1,2018,74.2,25.8
+Leather,2,2018,72.9,27.1
+Leather,3,2018,69.7,30.3
+Leather,4,2018,68.1,31.9
+Leather,1,2019,61.1,38.9
+Leather,2,2019,63.4,36.6
+Leather,3,2019,61.6,38.4
+Leather,4,2019,61.3,38.7
+Leather,1,2020,60.8,39.2
+Leather,2,2020,32.4,67.6
+Leather,3,2020,56.7,43.3
+Leather,4,2020,68.7,31.3
+Leather,1,2021,63.8,36.2
+Leather,2,2021,50.2,49.8
+Leather,3,2021,56.2,43.8
+Leather,4,2021,58.6,41.4
+Footwear,4,2003,82.0,18.0
+Footwear,1,2004,80.2,19.8
+Footwear,2,2004,81.3,18.7
+Footwear,3,2004,88.0,12.0
+Footwear,4,2004,81.9,18.1
+Footwear,1,2005,80.6,19.4
+Footwear,2,2005,76.4,23.6
+Footwear,3,2005,79.6,20.4
+Footwear,4,2005,83.3,16.8
+Footwear,1,2006,81.1,18.9
+Footwear,2,2006,87.7,12.3
+Footwear,3,2006,89.6,10.4
+Footwear,4,2006,90.1,9.9
+Footwear,1,2007,90.3,9.8
+Footwear,2,2007,90.9,9.2
+Footwear,3,2007,91.0,9.0
+Footwear,4,2007,88.8,11.2
+Footwear,1,2008,91.2,8.8
+Footwear,2,2008,91.7,8.3
+Footwear,3,2008,90.8,9.2
+Footwear,4,2008,93.5,6.5
+Footwear,1,2009,93.0,7.0
+Footwear,2,2009,92.0,8.0
+Footwear,3,2009,94.8,5.2
+Footwear,4,2009,94.3,5.7
+Footwear,1,2010,92.7,7.3
+Footwear,2,2010,86.6,13.4
+Footwear,3,2010,86.0,14.0
+Footwear,4,2010,86.4,13.6
+Footwear,1,2011,87.1,12.9
+Footwear,2,2011,88.5,11.5
+Footwear,3,2011,86.6,13.4
+Footwear,4,2011,89.0,11.0
+Footwear,1,2012,90.4,9.6
+Footwear,2,2012,88.2,11.8
+Footwear,3,2012,88.9,11.1
+Footwear,4,2012,89.4,10.6
+Footwear,1,2013,87.4,12.6
+Footwear,2,2013,93.2,6.8
+Footwear,3,2013,90.2,9.8
+Footwear,4,2013,88.6,11.4
+Footwear,1,2014,87.0,13.0
+Footwear,2,2014,84.5,15.5
+Footwear,3,2014,83.5,16.5
+Footwear,4,2014,86.1,13.9
+Footwear,1,2015,86.8,13.2
+Footwear,2,2015,85.8,14.2
+Footwear,3,2015,83.3,16.7
+Footwear,4,2015,84.0,16.0
+Footwear,1,2016,84.9,15.1
+Footwear,2,2016,82.1,17.9
+Footwear,3,2016,85.5,14.5
+Footwear,4,2016,85.2,14.8
+Footwear,1,2017,86.1,13.9
+Footwear,2,2017,81.1,18.9
+Footwear,3,2017,84.3,15.7
+Footwear,4,2017,85.8,14.2
+Footwear,1,2018,86.0,14.0
+Footwear,2,2018,85.3,14.7
+Footwear,3,2018,88.3,11.7
+Footwear,4,2018,88.6,11.4
+Footwear,1,2019,88.7,11.3
+Footwear,2,2019,84.3,15.7
+Footwear,3,2019,86.1,13.9
+Footwear,4,2019,87.7,12.3
+Footwear,1,2020,90.2,9.8
+Footwear,2,2020,54.3,45.7
+Footwear,3,2020,80.4,19.6
+Footwear,4,2020,87.7,12.3
+Footwear,1,2021,81.1,18.9
+Footwear,2,2021,81.7,18.3
+Footwear,3,2021,84.6,15.4
+Footwear,4,2021,84.6,15.4
+Wood and products of wood,4,2003,90.8,9.2
+Wood and products of wood,1,2004,90.4,9.6
+Wood and products of wood,2,2004,89.3,10.7
+Wood and products of wood,3,2004,88.9,11.1
+Wood and products of wood,4,2004,91.1,8.9
+Wood and products of wood,1,2005,88.7,11.3
+Wood and products of wood,2,2005,90.9,9.1
+Wood and products of wood,3,2005,92.0,8.0
+Wood and products of wood,4,2005,92.2,7.8
+Wood and products of wood,1,2006,89.4,10.6
+Wood and products of wood,2,2006,89.4,10.6
+Wood and products of wood,3,2006,90.0,10.0
+Wood and products of wood,4,2006,89.5,10.5
+Wood and products of wood,1,2007,88.4,11.6
+Wood and products of wood,2,2007,89.0,11.0
+Wood and products of wood,3,2007,87.2,12.8
+Wood and products of wood,4,2007,85.4,14.6
+Wood and products of wood,1,2008,89.7,10.3
+Wood and products of wood,2,2008,85.7,14.3
+Wood and products of wood,3,2008,86.8,13.2
+Wood and products of wood,4,2008,82.7,17.3
+Wood and products of wood,1,2009,84.5,15.5
+Wood and products of wood,2,2009,79.4,20.6
+Wood and products of wood,3,2009,74.1,25.9
+Wood and products of wood,4,2009,75.7,24.3
+Wood and products of wood,1,2010,76.7,23.3
+Wood and products of wood,2,2010,79.7,20.3
+Wood and products of wood,3,2010,78.4,21.6
+Wood and products of wood,4,2010,82.3,17.7
+Wood and products of wood,1,2011,80.7,19.3
+Wood and products of wood,2,2011,81.5,18.5
+Wood and products of wood,3,2011,81.3,18.7
+Wood and products of wood,4,2011,86.2,13.8
+Wood and products of wood,1,2012,80.9,19.1
+Wood and products of wood,2,2012,82.1,17.9
+Wood and products of wood,3,2012,82.9,17.1
+Wood and products of wood,4,2012,84.3,15.7
+Wood and products of wood,1,2013,82.2,17.8
+Wood and products of wood,2,2013,83.6,16.4
+Wood and products of wood,3,2013,83.1,16.9
+Wood and products of wood,4,2013,83.7,16.3
+Wood and products of wood,1,2014,81.4,18.6
+Wood and products of wood,2,2014,82.0,18.0
+Wood and products of wood,3,2014,81.8,18.2
+Wood and products of wood,4,2014,83.8,16.2
+Wood and products of wood,1,2015,81.6,18.4
+Wood and products of wood,2,2015,80.7,19.3
+Wood and products of wood,3,2015,82.3,17.7
+Wood and products of wood,4,2015,82.3,17.7
+Wood and products of wood,1,2016,82.1,17.9
+Wood and products of wood,2,2016,83.5,16.5
+Wood and products of wood,3,2016,86.0,14.0
+Wood and products of wood,4,2016,86.0,14.0
+Wood and products of wood,1,2017,84.9,15.1
+Wood and products of wood,2,2017,83.5,16.5
+Wood and products of wood,3,2017,83.9,16.1
+Wood and products of wood,4,2017,83.3,16.7
+Wood and products of wood,1,2018,83.8,16.2
+Wood and products of wood,2,2018,83.5,16.5
+Wood and products of wood,3,2018,82.1,17.9
+Wood and products of wood,4,2018,78.8,21.2
+Wood and products of wood,1,2019,82.7,17.3
+Wood and products of wood,2,2019,82.4,17.6
+Wood and products of wood,3,2019,82.6,17.4
+Wood and products of wood,4,2019,81.6,18.4
+Wood and products of wood,1,2020,81.7,18.3
+Wood and products of wood,2,2020,57.1,42.9
+Wood and products of wood,3,2020,79.1,20.9
+Wood and products of wood,4,2020,83.0,17.0
+Wood and products of wood,1,2021,83.7,16.3
+Wood and products of wood,2,2021,84.0,16.0
+Wood and products of wood,3,2021,83.5,16.5
+Wood and products of wood,4,2021,83.5,16.5
+Paper and paper products,4,2003,89.0,11.0
+Paper and paper products,1,2004,89.2,10.8
+Paper and paper products,2,2004,87.0,13.0
+Paper and paper products,3,2004,92.6,7.4
+Paper and paper products,4,2004,91.0,9.0
+Paper and paper products,1,2005,85.1,14.9
+Paper and paper products,2,2005,84.8,15.2
+Paper and paper products,3,2005,87.1,12.9
+Paper and paper products,4,2005,88.8,11.2
+Paper and paper products,1,2006,85.5,14.5
+Paper and paper products,2,2006,87.5,12.5
+Paper and paper products,3,2006,93.2,6.8
+Paper and paper products,4,2006,92.8,7.2
+Paper and paper products,1,2007,90.4,9.6
+Paper and paper products,2,2007,91.4,8.6
+Paper and paper products,3,2007,89.2,10.8
+Paper and paper products,4,2007,93.5,6.5
+Paper and paper products,1,2008,91.2,8.8
+Paper and paper products,2,2008,91.8,8.2
+Paper and paper products,3,2008,92.0,8.0
+Paper and paper products,4,2008,92.8,7.2
+Paper and paper products,1,2009,87.2,12.8
+Paper and paper products,2,2009,88.1,11.9
+Paper and paper products,3,2009,85.3,14.7
+Paper and paper products,4,2009,88.3,11.7
+Paper and paper products,1,2010,85.4,14.6
+Paper and paper products,2,2010,87.4,12.6
+Paper and paper products,3,2010,88.0,12.0
+Paper and paper products,4,2010,89.1,10.9
+Paper and paper products,1,2011,83.7,16.3
+Paper and paper products,2,2011,84.2,15.8
+Paper and paper products,3,2011,84.8,15.2
+Paper and paper products,4,2011,89.0,11.0
+Paper and paper products,1,2012,84.6,15.4
+Paper and paper products,2,2012,85.4,14.6
+Paper and paper products,3,2012,86.4,13.6
+Paper and paper products,4,2012,88.1,11.9
+Paper and paper products,1,2013,84.1,15.9
+Paper and paper products,2,2013,84.5,15.5
+Paper and paper products,3,2013,87.2,12.8
+Paper and paper products,4,2013,88.7,11.3
+Paper and paper products,1,2014,85.5,14.5
+Paper and paper products,2,2014,86.4,13.6
+Paper and paper products,3,2014,85.6,14.4
+Paper and paper products,4,2014,88.0,12.0
+Paper and paper products,1,2015,84.4,15.6
+Paper and paper products,2,2015,83.6,16.4
+Paper and paper products,3,2015,85.1,14.9
+Paper and paper products,4,2015,86.7,13.3
+Paper and paper products,1,2016,85.9,14.1
+Paper and paper products,2,2016,85.4,14.6
+Paper and paper products,3,2016,88.3,11.7
+Paper and paper products,4,2016,88.5,11.5
+Paper and paper products,1,2017,86.8,13.2
+Paper and paper products,2,2017,86.8,13.2
+Paper and paper products,3,2017,87.1,12.9
+Paper and paper products,4,2017,87.7,12.3
+Paper and paper products,1,2018,85.4,14.6
+Paper and paper products,2,2018,87.0,13.0
+Paper and paper products,3,2018,86.2,13.8
+Paper and paper products,4,2018,87.2,12.8
+Paper and paper products,1,2019,85.5,14.5
+Paper and paper products,2,2019,86.1,13.9
+Paper and paper products,3,2019,85.6,14.4
+Paper and paper products,4,2019,85.9,14.1
+Paper and paper products,1,2020,82.0,18.0
+Paper and paper products,2,2020,73.7,26.3
+Paper and paper products,3,2020,73.1,26.9
+Paper and paper products,4,2020,85.3,14.7
+Paper and paper products,1,2021,85.3,14.7
+Paper and paper products,2,2021,86.6,13.4
+Paper and paper products,3,2021,87.8,12.2
+Paper and paper products,4,2021,87.1,12.9
+Printing and publishing,4,2003,81.4,18.6
+Printing and publishing,1,2004,76.8,23.2
+Printing and publishing,2,2004,78.5,21.5
+Printing and publishing,3,2004,81.9,18.1
+Printing and publishing,4,2004,86.5,13.5
+Printing and publishing,1,2005,83.9,16.1
+Printing and publishing,2,2005,83.5,16.5
+Printing and publishing,3,2005,84.7,15.3
+Printing and publishing,4,2005,87.9,12.1
+Printing and publishing,1,2006,84.0,16.0
+Printing and publishing,2,2006,84.6,15.4
+Printing and publishing,3,2006,85.1,14.9
+Printing and publishing,4,2006,83.3,16.7
+Printing and publishing,1,2007,81.0,19.0
+Printing and publishing,2,2007,83.3,16.7
+Printing and publishing,3,2007,83.2,16.8
+Printing and publishing,4,2007,86.3,13.7
+Printing and publishing,1,2008,81.3,18.7
+Printing and publishing,2,2008,80.5,19.5
+Printing and publishing,3,2008,83.1,16.9
+Printing and publishing,4,2008,84.9,15.1
+Printing and publishing,1,2009,80.2,19.8
+Printing and publishing,2,2009,79.5,20.5
+Printing and publishing,3,2009,78.8,21.2
+Printing and publishing,4,2009,80.2,19.8
+Printing and publishing,1,2010,78.4,21.6
+Printing and publishing,2,2010,79.4,20.6
+Printing and publishing,3,2010,78.7,21.3
+Printing and publishing,4,2010,81.8,18.2
+Printing and publishing,1,2011,78.7,21.3
+Printing and publishing,2,2011,77.6,22.4
+Printing and publishing,3,2011,78.1,21.9
+Printing and publishing,4,2011,82.4,17.6
+Printing and publishing,1,2012,79.9,20.1
+Printing and publishing,2,2012,78.9,21.1
+Printing and publishing,3,2012,83.1,16.9
+Printing and publishing,4,2012,84.8,15.2
+Printing and publishing,1,2013,77.5,22.5
+Printing and publishing,2,2013,77.6,22.4
+Printing and publishing,3,2013,81.7,18.3
+Printing and publishing,4,2013,81.5,18.5
+Printing and publishing,1,2014,76.3,23.7
+Printing and publishing,2,2014,77.3,22.7
+Printing and publishing,3,2014,76.6,23.4
+Printing and publishing,4,2014,79.0,21.0
+Printing and publishing,1,2015,75.1,24.9
+Printing and publishing,2,2015,74.2,25.8
+Printing and publishing,3,2015,73.4,26.6
+Printing and publishing,4,2015,75.5,24.5
+Printing and publishing,1,2016,73.5,26.5
+Printing and publishing,2,2016,73.4,26.6
+Printing and publishing,3,2016,76.5,23.5
+Printing and publishing,4,2016,77.8,22.2
+Printing and publishing,1,2017,75.5,24.5
+Printing and publishing,2,2017,75.3,24.7
+Printing and publishing,3,2017,74.9,25.1
+Printing and publishing,4,2017,75.7,24.3
+Printing and publishing,1,2018,75.6,24.4
+Printing and publishing,2,2018,74.7,25.3
+Printing and publishing,3,2018,76.6,23.4
+Printing and publishing,4,2018,78.9,21.1
+Printing and publishing,1,2019,76.3,23.7
+Printing and publishing,2,2019,74.4,25.6
+Printing and publishing,3,2019,74.8,25.2
+Printing and publishing,4,2019,77.6,22.4
+Printing and publishing,1,2020,76.4,23.6
+Printing and publishing,2,2020,36.1,63.9
+Printing and publishing,3,2020,59.8,40.2
+Printing and publishing,4,2020,74.7,25.3
+Printing and publishing,1,2021,74.1,25.9
+Printing and publishing,2,2021,73.6,26.4
+Printing and publishing,3,2021,73.8,26.2
+Printing and publishing,4,2021,75.6,24.4
+"Coke, petroleum products and nuclear fuel",4,2003,84.4,15.6
+"Coke, petroleum products and nuclear fuel",1,2004,88.8,11.2
+"Coke, petroleum products and nuclear fuel",2,2004,88.3,11.7
+"Coke, petroleum products and nuclear fuel",3,2004,86.4,13.6
+"Coke, petroleum products and nuclear fuel",4,2004,85.1,14.9
+"Coke, petroleum products and nuclear fuel",1,2005,84.3,15.7
+"Coke, petroleum products and nuclear fuel",2,2005,90.4,9.6
+"Coke, petroleum products and nuclear fuel",3,2005,90.1,9.9
+"Coke, petroleum products and nuclear fuel",4,2005,82.3,17.7
+"Coke, petroleum products and nuclear fuel",1,2006,83.9,16.1
+"Coke, petroleum products and nuclear fuel",2,2006,83.9,16.1
+"Coke, petroleum products and nuclear fuel",3,2006,80.1,19.9
+"Coke, petroleum products and nuclear fuel",4,2006,83.1,16.9
+"Coke, petroleum products and nuclear fuel",1,2007,85.9,14.1
+"Coke, petroleum products and nuclear fuel",2,2007,85.7,14.3
+"Coke, petroleum products and nuclear fuel",3,2007,88.8,11.2
+"Coke, petroleum products and nuclear fuel",4,2007,90.3,9.7
+"Coke, petroleum products and nuclear fuel",1,2008,84.3,15.7
+"Coke, petroleum products and nuclear fuel",2,2008,89.7,10.3
+"Coke, petroleum products and nuclear fuel",3,2008,89.3,10.7
+"Coke, petroleum products and nuclear fuel",4,2008,86.8,13.2
+"Coke, petroleum products and nuclear fuel",1,2009,82.7,17.3
+"Coke, petroleum products and nuclear fuel",2,2009,87.0,13.0
+"Coke, petroleum products and nuclear fuel",3,2009,79.5,20.5
+"Coke, petroleum products and nuclear fuel",4,2009,80.3,19.7
+"Coke, petroleum products and nuclear fuel",1,2010,75.1,24.9
+"Coke, petroleum products and nuclear fuel",2,2010,82.8,17.2
+"Coke, petroleum products and nuclear fuel",3,2010,88.3,11.7
+"Coke, petroleum products and nuclear fuel",4,2010,75.4,24.6
+"Coke, petroleum products and nuclear fuel",1,2011,76.0,24.0
+"Coke, petroleum products and nuclear fuel",2,2011,86.3,13.7
+"Coke, petroleum products and nuclear fuel",3,2011,80.1,19.9
+"Coke, petroleum products and nuclear fuel",4,2011,66.4,33.6
+"Coke, petroleum products and nuclear fuel",1,2012,75.2,24.8
+"Coke, petroleum products and nuclear fuel",2,2012,84.6,15.4
+"Coke, petroleum products and nuclear fuel",3,2012,85.9,14.1
+"Coke, petroleum products and nuclear fuel",4,2012,85.4,14.6
+"Coke, petroleum products and nuclear fuel",1,2013,71.6,28.4
+"Coke, petroleum products and nuclear fuel",2,2013,76.1,23.9
+"Coke, petroleum products and nuclear fuel",3,2013,83.6,16.4
+"Coke, petroleum products and nuclear fuel",4,2013,84.7,15.3
+"Coke, petroleum products and nuclear fuel",1,2014,77.9,22.1
+"Coke, petroleum products and nuclear fuel",2,2014,81.3,18.7
+"Coke, petroleum products and nuclear fuel",3,2014,68.0,32.0
+"Coke, petroleum products and nuclear fuel",4,2014,83.1,16.9
+"Coke, petroleum products and nuclear fuel",1,2015,79.3,20.7
+"Coke, petroleum products and nuclear fuel",2,2015,75.2,24.8
+"Coke, petroleum products and nuclear fuel",3,2015,74.1,25.9
+"Coke, petroleum products and nuclear fuel",4,2015,82.0,18.0
+"Coke, petroleum products and nuclear fuel",1,2016,80.4,19.6
+"Coke, petroleum products and nuclear fuel",2,2016,82.6,17.4
+"Coke, petroleum products and nuclear fuel",3,2016,82.7,17.3
+"Coke, petroleum products and nuclear fuel",4,2016,82.3,17.7
+"Coke, petroleum products and nuclear fuel",1,2017,79.7,20.3
+"Coke, petroleum products and nuclear fuel",2,2017,75.0,25.0
+"Coke, petroleum products and nuclear fuel",3,2017,82.5,17.5
+"Coke, petroleum products and nuclear fuel",4,2017,86.0,14.0
+"Coke, petroleum products and nuclear fuel",1,2018,77.1,22.9
+"Coke, petroleum products and nuclear fuel",2,2018,79.2,20.8
+"Coke, petroleum products and nuclear fuel",3,2018,83.4,16.6
+"Coke, petroleum products and nuclear fuel",4,2018,87.1,12.9
+"Coke, petroleum products and nuclear fuel",1,2019,83.7,16.3
+"Coke, petroleum products and nuclear fuel",2,2019,84.4,15.6
+"Coke, petroleum products and nuclear fuel",3,2019,82.4,17.6
+"Coke, petroleum products and nuclear fuel",4,2019,81.3,18.7
+"Coke, petroleum products and nuclear fuel",1,2020,82.6,17.4
+"Coke, petroleum products and nuclear fuel",2,2020,62.0,38.0
+"Coke, petroleum products and nuclear fuel",3,2020,79.3,20.7
+"Coke, petroleum products and nuclear fuel",4,2020,77.1,22.9
+"Coke, petroleum products and nuclear fuel",1,2021,73.6,26.4
+"Coke, petroleum products and nuclear fuel",2,2021,69.1,30.9
+"Coke, petroleum products and nuclear fuel",3,2021,72.6,27.4
+"Coke, petroleum products and nuclear fuel",4,2021,67.6,32.4
+Basic chemicals,4,2003,81.4,18.6
+Basic chemicals,1,2004,81.3,18.7
+Basic chemicals,2,2004,79.4,20.6
+Basic chemicals,3,2004,87.8,12.2
+Basic chemicals,4,2004,88.0,12.0
+Basic chemicals,1,2005,84.3,15.7
+Basic chemicals,2,2005,86.6,13.4
+Basic chemicals,3,2005,87.3,12.7
+Basic chemicals,4,2005,90.8,9.2
+Basic chemicals,1,2006,86.5,13.5
+Basic chemicals,2,2006,83.9,16.1
+Basic chemicals,3,2006,83.0,17.1
+Basic chemicals,4,2006,87.8,12.2
+Basic chemicals,1,2007,86.9,13.1
+Basic chemicals,2,2007,87.5,12.5
+Basic chemicals,3,2007,89.5,10.5
+Basic chemicals,4,2007,90.2,9.8
+Basic chemicals,1,2008,87.5,12.5
+Basic chemicals,2,2008,85.6,14.4
+Basic chemicals,3,2008,86.9,13.1
+Basic chemicals,4,2008,83.7,16.3
+Basic chemicals,1,2009,82.3,17.7
+Basic chemicals,2,2009,77.4,22.6
+Basic chemicals,3,2009,79.9,20.1
+Basic chemicals,4,2009,81.8,18.2
+Basic chemicals,1,2010,78.8,21.2
+Basic chemicals,2,2010,82.6,17.4
+Basic chemicals,3,2010,84.2,15.8
+Basic chemicals,4,2010,84.8,15.2
+Basic chemicals,1,2011,83.6,16.4
+Basic chemicals,2,2011,83.1,16.9
+Basic chemicals,3,2011,80.5,19.5
+Basic chemicals,4,2011,85.4,14.6
+Basic chemicals,1,2012,81.6,18.4
+Basic chemicals,2,2012,83.1,16.9
+Basic chemicals,3,2012,83.5,16.5
+Basic chemicals,4,2012,85.7,14.3
+Basic chemicals,1,2013,79.2,20.8
+Basic chemicals,2,2013,86.7,13.3
+Basic chemicals,3,2013,86.6,13.4
+Basic chemicals,4,2013,88.3,11.7
+Basic chemicals,1,2014,85.8,14.2
+Basic chemicals,2,2014,86.1,13.9
+Basic chemicals,3,2014,86.0,14.0
+Basic chemicals,4,2014,86.5,13.5
+Basic chemicals,1,2015,82.4,17.6
+Basic chemicals,2,2015,83.0,17.0
+Basic chemicals,3,2015,87.1,12.9
+Basic chemicals,4,2015,84.6,15.4
+Basic chemicals,1,2016,85.8,14.2
+Basic chemicals,2,2016,87.8,12.2
+Basic chemicals,3,2016,87.8,12.2
+Basic chemicals,4,2016,88.3,11.7
+Basic chemicals,1,2017,83.8,16.2
+Basic chemicals,2,2017,85.7,14.3
+Basic chemicals,3,2017,86.0,14.0
+Basic chemicals,4,2017,89.0,11.0
+Basic chemicals,1,2018,85.1,14.9
+Basic chemicals,2,2018,85.1,14.9
+Basic chemicals,3,2018,83.0,17.0
+Basic chemicals,4,2018,89.4,10.6
+Basic chemicals,1,2019,84.8,15.2
+Basic chemicals,2,2019,83.4,16.6
+Basic chemicals,3,2019,83.1,16.9
+Basic chemicals,4,2019,85.2,14.8
+Basic chemicals,1,2020,82.4,17.6
+Basic chemicals,2,2020,55.5,44.5
+Basic chemicals,3,2020,77.5,22.5
+Basic chemicals,4,2020,85.3,14.7
+Basic chemicals,1,2021,77.7,22.3
+Basic chemicals,2,2021,82.1,17.9
+Basic chemicals,3,2021,82.9,17.1
+Basic chemicals,4,2021,86.8,13.2
+Other chemicals,4,2003,78.4,21.6
+Other chemicals,1,2004,80.6,19.4
+Other chemicals,2,2004,79.5,20.5
+Other chemicals,3,2004,73.3,26.7
+Other chemicals,4,2004,76.9,23.1
+Other chemicals,1,2005,75.4,24.6
+Other chemicals,2,2005,75.6,24.4
+Other chemicals,3,2005,80.3,19.7
+Other chemicals,4,2005,82.9,17.1
+Other chemicals,1,2006,78.7,21.3
+Other chemicals,2,2006,81.5,18.5
+Other chemicals,3,2006,77.7,22.4
+Other chemicals,4,2006,79.3,20.7
+Other chemicals,1,2007,76.4,23.6
+Other chemicals,2,2007,78.3,21.8
+Other chemicals,3,2007,77.6,22.4
+Other chemicals,4,2007,79.6,20.4
+Other chemicals,1,2008,79.8,20.2
+Other chemicals,2,2008,79.2,20.8
+Other chemicals,3,2008,79.7,20.3
+Other chemicals,4,2008,79.5,20.5
+Other chemicals,1,2009,78.4,21.6
+Other chemicals,2,2009,75.1,24.9
+Other chemicals,3,2009,76.8,23.2
+Other chemicals,4,2009,80.4,19.6
+Other chemicals,1,2010,79.7,20.3
+Other chemicals,2,2010,79.4,20.6
+Other chemicals,3,2010,78.3,21.7
+Other chemicals,4,2010,81.6,18.4
+Other chemicals,1,2011,79.6,20.4
+Other chemicals,2,2011,80.3,19.7
+Other chemicals,3,2011,80.4,19.6
+Other chemicals,4,2011,82.8,17.2
+Other chemicals,1,2012,82.3,17.7
+Other chemicals,2,2012,83.4,16.6
+Other chemicals,3,2012,82.9,17.1
+Other chemicals,4,2012,84.3,15.7
+Other chemicals,1,2013,81.9,18.1
+Other chemicals,2,2013,80.4,19.6
+Other chemicals,3,2013,83.0,17.0
+Other chemicals,4,2013,84.0,16.0
+Other chemicals,1,2014,83.0,17.0
+Other chemicals,2,2014,83.0,17.0
+Other chemicals,3,2014,82.9,17.1
+Other chemicals,4,2014,84.0,16.0
+Other chemicals,1,2015,83.3,16.7
+Other chemicals,2,2015,83.9,16.1
+Other chemicals,3,2015,84.1,15.9
+Other chemicals,4,2015,84.2,15.8
+Other chemicals,1,2016,84.0,16.0
+Other chemicals,2,2016,86.0,14.0
+Other chemicals,3,2016,86.2,13.8
+Other chemicals,4,2016,85.1,14.9
+Other chemicals,1,2017,83.6,16.4
+Other chemicals,2,2017,85.3,14.7
+Other chemicals,3,2017,86.2,13.8
+Other chemicals,4,2017,86.6,13.4
+Other chemicals,1,2018,86.5,13.5
+Other chemicals,2,2018,84.4,15.6
+Other chemicals,3,2018,84.7,15.3
+Other chemicals,4,2018,87.0,13.0
+Other chemicals,1,2019,85.9,14.1
+Other chemicals,2,2019,85.3,14.7
+Other chemicals,3,2019,84.0,16.0
+Other chemicals,4,2019,84.2,15.8
+Other chemicals,1,2020,84.0,16.0
+Other chemicals,2,2020,78.5,21.5
+Other chemicals,3,2020,82.3,17.7
+Other chemicals,4,2020,84.0,16.0
+Other chemicals,1,2021,83.4,16.6
+Other chemicals,2,2021,83.5,16.5
+Other chemicals,3,2021,83.1,16.9
+Other chemicals,4,2021,83.7,16.3
+Rubber products,4,2003,84.9,15.1
+Rubber products,1,2004,80.5,19.5
+Rubber products,2,2004,85.1,14.9
+Rubber products,3,2004,90.0,10.0
+Rubber products,4,2004,93.4,6.6
+Rubber products,1,2005,89.6,10.4
+Rubber products,2,2005,90.0,10.0
+Rubber products,3,2005,88.1,11.9
+Rubber products,4,2005,87.7,12.3
+Rubber products,1,2006,88.1,11.9
+Rubber products,2,2006,88.4,11.7
+Rubber products,3,2006,83.5,16.5
+Rubber products,4,2006,83.2,16.9
+Rubber products,1,2007,81.9,18.1
+Rubber products,2,2007,84.5,15.5
+Rubber products,3,2007,73.1,26.9
+Rubber products,4,2007,87.4,12.6
+Rubber products,1,2008,84.7,15.3
+Rubber products,2,2008,88.6,11.4
+Rubber products,3,2008,87.8,12.2
+Rubber products,4,2008,83.3,16.7
+Rubber products,1,2009,81.1,18.9
+Rubber products,2,2009,80.3,19.7
+Rubber products,3,2009,74.3,25.7
+Rubber products,4,2009,74.3,25.7
+Rubber products,1,2010,78.2,21.8
+Rubber products,2,2010,79.3,20.7
+Rubber products,3,2010,83.0,17.0
+Rubber products,4,2010,84.2,15.8
+Rubber products,1,2011,83.2,16.8
+Rubber products,2,2011,84.0,16.0
+Rubber products,3,2011,84.5,15.5
+Rubber products,4,2011,90.0,10.0
+Rubber products,1,2012,87.4,12.6
+Rubber products,2,2012,88.4,11.6
+Rubber products,3,2012,85.2,14.8
+Rubber products,4,2012,92.0,8.0
+Rubber products,1,2013,87.3,12.7
+Rubber products,2,2013,86.9,13.1
+Rubber products,3,2013,81.1,18.9
+Rubber products,4,2013,85.3,14.7
+Rubber products,1,2014,85.0,15.0
+Rubber products,2,2014,82.3,17.7
+Rubber products,3,2014,79.3,20.7
+Rubber products,4,2014,85.6,14.4
+Rubber products,1,2015,78.2,21.8
+Rubber products,2,2015,80.2,19.8
+Rubber products,3,2015,79.0,21.0
+Rubber products,4,2015,82.4,17.6
+Rubber products,1,2016,82.2,17.8
+Rubber products,2,2016,84.7,15.3
+Rubber products,3,2016,84.7,15.3
+Rubber products,4,2016,85.1,14.9
+Rubber products,1,2017,84.7,15.3
+Rubber products,2,2017,83.7,16.3
+Rubber products,3,2017,83.7,16.3
+Rubber products,4,2017,83.2,16.8
+Rubber products,1,2018,81.4,18.6
+Rubber products,2,2018,84.1,15.9
+Rubber products,3,2018,85.5,14.5
+Rubber products,4,2018,85.2,14.8
+Rubber products,1,2019,84.8,15.2
+Rubber products,2,2019,84.9,15.1
+Rubber products,3,2019,83.6,16.4
+Rubber products,4,2019,80.7,19.3
+Rubber products,1,2020,81.9,18.1
+Rubber products,2,2020,50.0,50.0
+Rubber products,3,2020,67.9,32.1
+Rubber products,4,2020,81.1,18.9
+Rubber products,1,2021,82.0,18.0
+Rubber products,2,2021,79.6,20.4
+Rubber products,3,2021,83.5,16.5
+Rubber products,4,2021,82.4,17.6
+Plastic products,4,2003,81.1,18.9
+Plastic products,1,2004,81.9,18.1
+Plastic products,2,2004,81.3,18.7
+Plastic products,3,2004,83.8,16.2
+Plastic products,4,2004,85.0,15.0
+Plastic products,1,2005,80.3,19.7
+Plastic products,2,2005,78.4,21.6
+Plastic products,3,2005,81.1,19.0
+Plastic products,4,2005,83.2,16.8
+Plastic products,1,2006,79.9,20.1
+Plastic products,2,2006,80.6,19.4
+Plastic products,3,2006,81.4,18.6
+Plastic products,4,2006,84.5,15.5
+Plastic products,1,2007,82.9,17.1
+Plastic products,2,2007,83.3,16.8
+Plastic products,3,2007,82.0,18.0
+Plastic products,4,2007,85.4,14.6
+Plastic products,1,2008,83.1,16.9
+Plastic products,2,2008,81.0,19.0
+Plastic products,3,2008,83.4,16.6
+Plastic products,4,2008,83.7,16.3
+Plastic products,1,2009,83.4,16.6
+Plastic products,2,2009,82.4,17.6
+Plastic products,3,2009,81.8,18.2
+Plastic products,4,2009,82.6,17.4
+Plastic products,1,2010,81.7,18.3
+Plastic products,2,2010,81.8,18.2
+Plastic products,3,2010,81.2,18.8
+Plastic products,4,2010,84.9,15.1
+Plastic products,1,2011,81.7,18.3
+Plastic products,2,2011,82.1,17.9
+Plastic products,3,2011,84.8,15.2
+Plastic products,4,2011,88.7,11.3
+Plastic products,1,2012,83.2,16.8
+Plastic products,2,2012,84.3,15.7
+Plastic products,3,2012,88.0,12.0
+Plastic products,4,2012,88.2,11.8
+Plastic products,1,2013,83.8,16.2
+Plastic products,2,2013,84.5,15.5
+Plastic products,3,2013,84.1,15.9
+Plastic products,4,2013,86.6,13.4
+Plastic products,1,2014,84.1,15.9
+Plastic products,2,2014,83.2,16.8
+Plastic products,3,2014,85.0,15.0
+Plastic products,4,2014,85.8,14.2
+Plastic products,1,2015,82.2,17.8
+Plastic products,2,2015,81.6,18.4
+Plastic products,3,2015,83.7,16.3
+Plastic products,4,2015,85.4,14.6
+Plastic products,1,2016,83.2,16.8
+Plastic products,2,2016,82.9,17.1
+Plastic products,3,2016,83.7,16.3
+Plastic products,4,2016,85.1,14.9
+Plastic products,1,2017,82.7,17.3
+Plastic products,2,2017,82.8,17.2
+Plastic products,3,2017,83.3,16.7
+Plastic products,4,2017,85.7,14.3
+Plastic products,1,2018,83.4,16.6
+Plastic products,2,2018,84.2,15.8
+Plastic products,3,2018,84.3,15.7
+Plastic products,4,2018,84.9,15.1
+Plastic products,1,2019,82.7,17.3
+Plastic products,2,2019,82.7,17.3
+Plastic products,3,2019,83.1,16.9
+Plastic products,4,2019,83.3,16.7
+Plastic products,1,2020,82.6,17.4
+Plastic products,2,2020,76.3,23.7
+Plastic products,3,2020,82.9,17.1
+Plastic products,4,2020,83.0,17.0
+Plastic products,1,2021,83.6,16.4
+Plastic products,2,2021,84.0,16.0
+Plastic products,3,2021,85.5,14.5
+Plastic products,4,2021,84.1,15.9
+Glass and glass products,4,2003,95.7,4.3
+Glass and glass products,1,2004,94.7,5.3
+Glass and glass products,2,2004,94.8,5.2
+Glass and glass products,3,2004,96.1,3.9
+Glass and glass products,4,2004,95.6,4.4
+Glass and glass products,1,2005,92.8,7.2
+Glass and glass products,2,2005,93.6,6.4
+Glass and glass products,3,2005,96.6,3.4
+Glass and glass products,4,2005,95.2,4.8
+Glass and glass products,1,2006,94.5,5.6
+Glass and glass products,2,2006,95.2,4.8
+Glass and glass products,3,2006,94.6,5.4
+Glass and glass products,4,2006,97.5,2.5
+Glass and glass products,1,2007,94.2,5.8
+Glass and glass products,2,2007,94.1,6.0
+Glass and glass products,3,2007,90.4,9.6
+Glass and glass products,4,2007,94.3,5.7
+Glass and glass products,1,2008,93.1,6.9
+Glass and glass products,2,2008,93.2,6.8
+Glass and glass products,3,2008,93.9,6.1
+Glass and glass products,4,2008,91.3,8.7
+Glass and glass products,1,2009,89.1,10.9
+Glass and glass products,2,2009,86.7,13.3
+Glass and glass products,3,2009,86.3,13.7
+Glass and glass products,4,2009,90.7,9.4
+Glass and glass products,1,2010,86.1,13.9
+Glass and glass products,2,2010,85.1,14.9
+Glass and glass products,3,2010,87.5,12.5
+Glass and glass products,4,2010,89.1,10.9
+Glass and glass products,1,2011,87.2,12.8
+Glass and glass products,2,2011,84.9,15.1
+Glass and glass products,3,2011,86.0,14.0
+Glass and glass products,4,2011,91.9,8.1
+Glass and glass products,1,2012,86.9,13.1
+Glass and glass products,2,2012,85.2,14.8
+Glass and glass products,3,2012,92.3,7.7
+Glass and glass products,4,2012,93.5,6.5
+Glass and glass products,1,2013,85.4,14.6
+Glass and glass products,2,2013,85.6,14.4
+Glass and glass products,3,2013,87.5,12.5
+Glass and glass products,4,2013,86.8,13.2
+Glass and glass products,1,2014,86.0,14.0
+Glass and glass products,2,2014,80.2,19.8
+Glass and glass products,3,2014,81.8,18.2
+Glass and glass products,4,2014,84.6,15.4
+Glass and glass products,1,2015,79.3,20.7
+Glass and glass products,2,2015,79.2,20.8
+Glass and glass products,3,2015,79.7,20.3
+Glass and glass products,4,2015,85.5,14.5
+Glass and glass products,1,2016,84.2,15.8
+Glass and glass products,2,2016,87.9,12.1
+Glass and glass products,3,2016,86.2,13.8
+Glass and glass products,4,2016,84.6,15.4
+Glass and glass products,1,2017,80.9,19.1
+Glass and glass products,2,2017,82.3,17.7
+Glass and glass products,3,2017,85.0,15.0
+Glass and glass products,4,2017,86.0,14.0
+Glass and glass products,1,2018,82.3,17.7
+Glass and glass products,2,2018,84.9,15.1
+Glass and glass products,3,2018,87.2,12.8
+Glass and glass products,4,2018,88.6,11.4
+Glass and glass products,1,2019,86.2,13.8
+Glass and glass products,2,2019,89.9,10.1
+Glass and glass products,3,2019,88.5,11.5
+Glass and glass products,4,2019,89.9,10.1
+Glass and glass products,1,2020,81.0,19.0
+Glass and glass products,2,2020,49.5,50.5
+Glass and glass products,3,2020,85.3,14.7
+Glass and glass products,4,2020,89.9,10.1
+Glass and glass products,1,2021,80.2,19.8
+Glass and glass products,2,2021,88.0,12.0
+Glass and glass products,3,2021,90.2,9.8
+Glass and glass products,4,2021,88.8,11.2
+Non-metallic mineral products,4,2003,85.6,14.4
+Non-metallic mineral products,1,2004,84.2,15.8
+Non-metallic mineral products,2,2004,84.0,16.0
+Non-metallic mineral products,3,2004,86.7,13.3
+Non-metallic mineral products,4,2004,88.3,11.7
+Non-metallic mineral products,1,2005,88.5,11.5
+Non-metallic mineral products,2,2005,86.8,13.2
+Non-metallic mineral products,3,2005,89.3,10.7
+Non-metallic mineral products,4,2005,90.7,9.4
+Non-metallic mineral products,1,2006,83.6,16.4
+Non-metallic mineral products,2,2006,87.3,12.8
+Non-metallic mineral products,3,2006,87.0,13.0
+Non-metallic mineral products,4,2006,90.3,9.7
+Non-metallic mineral products,1,2007,86.8,13.2
+Non-metallic mineral products,2,2007,89.0,11.1
+Non-metallic mineral products,3,2007,87.4,12.6
+Non-metallic mineral products,4,2007,87.3,12.7
+Non-metallic mineral products,1,2008,86.3,13.7
+Non-metallic mineral products,2,2008,84.9,15.1
+Non-metallic mineral products,3,2008,86.4,13.6
+Non-metallic mineral products,4,2008,84.5,15.5
+Non-metallic mineral products,1,2009,79.5,20.5
+Non-metallic mineral products,2,2009,82.8,17.2
+Non-metallic mineral products,3,2009,78.3,21.7
+Non-metallic mineral products,4,2009,79.7,20.3
+Non-metallic mineral products,1,2010,76.6,23.4
+Non-metallic mineral products,2,2010,77.6,22.4
+Non-metallic mineral products,3,2010,75.6,24.4
+Non-metallic mineral products,4,2010,76.9,23.1
+Non-metallic mineral products,1,2011,73.7,26.3
+Non-metallic mineral products,2,2011,77.1,22.9
+Non-metallic mineral products,3,2011,78.0,22.0
+Non-metallic mineral products,4,2011,77.8,22.2
+Non-metallic mineral products,1,2012,74.6,25.4
+Non-metallic mineral products,2,2012,77.2,22.8
+Non-metallic mineral products,3,2012,74.1,25.9
+Non-metallic mineral products,4,2012,77.8,22.2
+Non-metallic mineral products,1,2013,74.0,26.0
+Non-metallic mineral products,2,2013,78.0,22.0
+Non-metallic mineral products,3,2013,82.1,17.9
+Non-metallic mineral products,4,2013,81.2,18.8
+Non-metallic mineral products,1,2014,79.4,20.6
+Non-metallic mineral products,2,2014,81.3,18.7
+Non-metallic mineral products,3,2014,78.6,21.4
+Non-metallic mineral products,4,2014,80.7,19.3
+Non-metallic mineral products,1,2015,76.2,23.8
+Non-metallic mineral products,2,2015,78.0,22.0
+Non-metallic mineral products,3,2015,79.8,20.2
+Non-metallic mineral products,4,2015,85.1,14.9
+Non-metallic mineral products,1,2016,80.3,19.7
+Non-metallic mineral products,2,2016,80.5,19.5
+Non-metallic mineral products,3,2016,80.6,19.4
+Non-metallic mineral products,4,2016,83.4,16.6
+Non-metallic mineral products,1,2017,79.0,21.0
+Non-metallic mineral products,2,2017,81.1,18.9
+Non-metallic mineral products,3,2017,80.3,19.7
+Non-metallic mineral products,4,2017,80.7,19.3
+Non-metallic mineral products,1,2018,79.9,20.1
+Non-metallic mineral products,2,2018,79.3,20.7
+Non-metallic mineral products,3,2018,81.0,19.0
+Non-metallic mineral products,4,2018,81.2,18.8
+Non-metallic mineral products,1,2019,76.0,24.0
+Non-metallic mineral products,2,2019,75.6,24.4
+Non-metallic mineral products,3,2019,73.0,27.0
+Non-metallic mineral products,4,2019,75.9,24.1
+Non-metallic mineral products,1,2020,72.3,27.7
+Non-metallic mineral products,2,2020,42.0,58.0
+Non-metallic mineral products,3,2020,67.8,32.2
+Non-metallic mineral products,4,2020,75.7,24.3
+Non-metallic mineral products,1,2021,69.9,30.1
+Non-metallic mineral products,2,2021,75.1,24.9
+Non-metallic mineral products,3,2021,77.1,22.9
+Non-metallic mineral products,4,2021,75.5,24.5
+Basic iron and steel products,4,2003,88.5,11.5
+Basic iron and steel products,1,2004,87.0,13.0
+Basic iron and steel products,2,2004,87.3,12.7
+Basic iron and steel products,3,2004,94.8,5.2
+Basic iron and steel products,4,2004,92.4,7.6
+Basic iron and steel products,1,2005,91.9,8.1
+Basic iron and steel products,2,2005,91.9,8.1
+Basic iron and steel products,3,2005,87.5,12.5
+Basic iron and steel products,4,2005,90.2,9.9
+Basic iron and steel products,1,2006,85.8,14.2
+Basic iron and steel products,2,2006,83.5,16.5
+Basic iron and steel products,3,2006,85.7,14.3
+Basic iron and steel products,4,2006,87.1,12.9
+Basic iron and steel products,1,2007,84.0,16.0
+Basic iron and steel products,2,2007,85.3,14.7
+Basic iron and steel products,3,2007,81.0,19.1
+Basic iron and steel products,4,2007,83.5,16.5
+Basic iron and steel products,1,2008,79.3,20.7
+Basic iron and steel products,2,2008,81.5,18.5
+Basic iron and steel products,3,2008,81.8,18.2
+Basic iron and steel products,4,2008,63.3,36.7
+Basic iron and steel products,1,2009,52.4,47.6
+Basic iron and steel products,2,2009,64.7,35.3
+Basic iron and steel products,3,2009,74.7,25.3
+Basic iron and steel products,4,2009,72.9,27.1
+Basic iron and steel products,1,2010,79.5,20.5
+Basic iron and steel products,2,2010,82.0,18.0
+Basic iron and steel products,3,2010,75.7,24.3
+Basic iron and steel products,4,2010,76.8,23.2
+Basic iron and steel products,1,2011,78.3,21.7
+Basic iron and steel products,2,2011,83.3,16.7
+Basic iron and steel products,3,2011,61.2,38.8
+Basic iron and steel products,4,2011,70.5,29.5
+Basic iron and steel products,1,2012,76.8,23.2
+Basic iron and steel products,2,2012,76.5,23.5
+Basic iron and steel products,3,2012,71.9,28.1
+Basic iron and steel products,4,2012,76.6,23.4
+Basic iron and steel products,1,2013,71.8,28.2
+Basic iron and steel products,2,2013,81.2,18.8
+Basic iron and steel products,3,2013,72.6,27.4
+Basic iron and steel products,4,2013,77.6,22.4
+Basic iron and steel products,1,2014,77.7,22.3
+Basic iron and steel products,2,2014,77.8,22.2
+Basic iron and steel products,3,2014,76.2,23.8
+Basic iron and steel products,4,2014,75.3,24.7
+Basic iron and steel products,1,2015,78.8,21.2
+Basic iron and steel products,2,2015,75.6,24.4
+Basic iron and steel products,3,2015,70.0,30.0
+Basic iron and steel products,4,2015,73.1,26.9
+Basic iron and steel products,1,2016,75.7,24.3
+Basic iron and steel products,2,2016,77.4,22.6
+Basic iron and steel products,3,2016,73.3,26.7
+Basic iron and steel products,4,2016,80.0,20.0
+Basic iron and steel products,1,2017,76.8,23.2
+Basic iron and steel products,2,2017,78.0,22.0
+Basic iron and steel products,3,2017,74.4,25.6
+Basic iron and steel products,4,2017,79.0,21.0
+Basic iron and steel products,1,2018,74.7,25.3
+Basic iron and steel products,2,2018,76.3,23.7
+Basic iron and steel products,3,2018,75.3,24.7
+Basic iron and steel products,4,2018,78.1,21.9
+Basic iron and steel products,1,2019,77.9,22.1
+Basic iron and steel products,2,2019,76.6,23.4
+Basic iron and steel products,3,2019,69.4,30.6
+Basic iron and steel products,4,2019,69.0,31.0
+Basic iron and steel products,1,2020,65.6,34.4
+Basic iron and steel products,2,2020,40.1,59.9
+Basic iron and steel products,3,2020,49.9,50.1
+Basic iron and steel products,4,2020,61.2,38.8
+Basic iron and steel products,1,2021,69.5,30.5
+Basic iron and steel products,2,2021,75.6,24.4
+Basic iron and steel products,3,2021,71.7,28.3
+Basic iron and steel products,4,2021,78.5,21.5
+Basic precious and non-ferrous metal products,4,2003,89.1,10.9
+Basic precious and non-ferrous metal products,1,2004,87.6,12.4
+Basic precious and non-ferrous metal products,2,2004,92.9,7.1
+Basic precious and non-ferrous metal products,3,2004,93.3,6.7
+Basic precious and non-ferrous metal products,4,2004,95.2,4.8
+Basic precious and non-ferrous metal products,1,2005,95.2,4.8
+Basic precious and non-ferrous metal products,2,2005,92.3,7.7
+Basic precious and non-ferrous metal products,3,2005,93.9,6.1
+Basic precious and non-ferrous metal products,4,2005,94.3,5.7
+Basic precious and non-ferrous metal products,1,2006,93.2,6.8
+Basic precious and non-ferrous metal products,2,2006,94.3,5.7
+Basic precious and non-ferrous metal products,3,2006,92.4,7.6
+Basic precious and non-ferrous metal products,4,2006,92.6,7.4
+Basic precious and non-ferrous metal products,1,2007,92.4,7.6
+Basic precious and non-ferrous metal products,2,2007,93.8,6.2
+Basic precious and non-ferrous metal products,3,2007,93.6,6.4
+Basic precious and non-ferrous metal products,4,2007,94.2,5.9
+Basic precious and non-ferrous metal products,1,2008,91.2,8.8
+Basic precious and non-ferrous metal products,2,2008,89.9,10.1
+Basic precious and non-ferrous metal products,3,2008,87.7,12.3
+Basic precious and non-ferrous metal products,4,2008,82.8,17.2
+Basic precious and non-ferrous metal products,1,2009,80.8,19.2
+Basic precious and non-ferrous metal products,2,2009,81.8,18.2
+Basic precious and non-ferrous metal products,3,2009,81.2,18.8
+Basic precious and non-ferrous metal products,4,2009,83.2,16.8
+Basic precious and non-ferrous metal products,1,2010,83.9,16.1
+Basic precious and non-ferrous metal products,2,2010,84.6,15.4
+Basic precious and non-ferrous metal products,3,2010,83.3,16.7
+Basic precious and non-ferrous metal products,4,2010,85.6,14.4
+Basic precious and non-ferrous metal products,1,2011,80.2,19.8
+Basic precious and non-ferrous metal products,2,2011,83.0,17.0
+Basic precious and non-ferrous metal products,3,2011,82.2,17.8
+Basic precious and non-ferrous metal products,4,2011,81.8,18.2
+Basic precious and non-ferrous metal products,1,2012,76.7,23.3
+Basic precious and non-ferrous metal products,2,2012,67.7,32.3
+Basic precious and non-ferrous metal products,3,2012,77.8,22.2
+Basic precious and non-ferrous metal products,4,2012,81.3,18.7
+Basic precious and non-ferrous metal products,1,2013,81.4,18.6
+Basic precious and non-ferrous metal products,2,2013,81.1,18.9
+Basic precious and non-ferrous metal products,3,2013,81.0,19.0
+Basic precious and non-ferrous metal products,4,2013,81.4,18.6
+Basic precious and non-ferrous metal products,1,2014,83.5,16.5
+Basic precious and non-ferrous metal products,2,2014,80.8,19.2
+Basic precious and non-ferrous metal products,3,2014,80.0,20.0
+Basic precious and non-ferrous metal products,4,2014,80.1,19.9
+Basic precious and non-ferrous metal products,1,2015,78.8,21.2
+Basic precious and non-ferrous metal products,2,2015,77.8,22.2
+Basic precious and non-ferrous metal products,3,2015,72.3,27.7
+Basic precious and non-ferrous metal products,4,2015,74.1,25.9
+Basic precious and non-ferrous metal products,1,2016,78.2,21.8
+Basic precious and non-ferrous metal products,2,2016,76.4,23.6
+Basic precious and non-ferrous metal products,3,2016,78.8,21.2
+Basic precious and non-ferrous metal products,4,2016,78.9,21.1
+Basic precious and non-ferrous metal products,1,2017,76.5,23.5
+Basic precious and non-ferrous metal products,2,2017,78.3,21.7
+Basic precious and non-ferrous metal products,3,2017,79.0,21.0
+Basic precious and non-ferrous metal products,4,2017,79.9,20.1
+Basic precious and non-ferrous metal products,1,2018,77.8,22.2
+Basic precious and non-ferrous metal products,2,2018,80.3,19.7
+Basic precious and non-ferrous metal products,3,2018,81.3,18.7
+Basic precious and non-ferrous metal products,4,2018,80.9,19.1
+Basic precious and non-ferrous metal products,1,2019,77.8,22.2
+Basic precious and non-ferrous metal products,2,2019,80.5,19.5
+Basic precious and non-ferrous metal products,3,2019,76.2,23.8
+Basic precious and non-ferrous metal products,4,2019,76.9,23.1
+Basic precious and non-ferrous metal products,1,2020,77.6,22.4
+Basic precious and non-ferrous metal products,2,2020,55.2,44.8
+Basic precious and non-ferrous metal products,3,2020,67.1,32.9
+Basic precious and non-ferrous metal products,4,2020,70.9,29.1
+Basic precious and non-ferrous metal products,1,2021,72.2,27.8
+Basic precious and non-ferrous metal products,2,2021,74.1,25.9
+Basic precious and non-ferrous metal products,3,2021,75.0,25.0
+Basic precious and non-ferrous metal products,4,2021,74.3,25.7
+Metal products,4,2003,88.1,11.9
+Metal products,1,2004,83.2,16.8
+Metal products,2,2004,75.1,24.9
+Metal products,3,2004,79.3,20.7
+Metal products,4,2004,82.2,17.8
+Metal products,1,2005,83.6,16.4
+Metal products,2,2005,82.8,17.2
+Metal products,3,2005,82.4,17.6
+Metal products,4,2005,84.9,15.1
+Metal products,1,2006,83.3,16.7
+Metal products,2,2006,83.0,17.0
+Metal products,3,2006,84.1,15.9
+Metal products,4,2006,85.8,14.2
+Metal products,1,2007,81.4,18.6
+Metal products,2,2007,82.2,17.8
+Metal products,3,2007,83.0,17.0
+Metal products,4,2007,83.3,16.7
+Metal products,1,2008,82.6,17.4
+Metal products,2,2008,82.3,17.7
+Metal products,3,2008,81.3,18.7
+Metal products,4,2008,79.1,20.9
+Metal products,1,2009,74.3,25.7
+Metal products,2,2009,73.7,26.3
+Metal products,3,2009,72.9,27.1
+Metal products,4,2009,75.4,24.6
+Metal products,1,2010,74.1,25.9
+Metal products,2,2010,72.8,27.2
+Metal products,3,2010,71.5,28.5
+Metal products,4,2010,75.4,24.6
+Metal products,1,2011,73.6,26.4
+Metal products,2,2011,75.3,24.7
+Metal products,3,2011,75.6,24.4
+Metal products,4,2011,76.8,23.2
+Metal products,1,2012,75.1,24.9
+Metal products,2,2012,74.7,25.3
+Metal products,3,2012,76.4,23.6
+Metal products,4,2012,80.8,19.2
+Metal products,1,2013,76.6,23.4
+Metal products,2,2013,74.9,25.1
+Metal products,3,2013,76.1,23.9
+Metal products,4,2013,78.1,21.9
+Metal products,1,2014,75.3,24.7
+Metal products,2,2014,74.4,25.6
+Metal products,3,2014,76.6,23.4
+Metal products,4,2014,75.6,24.4
+Metal products,1,2015,74.1,25.9
+Metal products,2,2015,73.0,27.0
+Metal products,3,2015,72.1,27.9
+Metal products,4,2015,74.5,25.5
+Metal products,1,2016,72.5,27.5
+Metal products,2,2016,72.4,27.6
+Metal products,3,2016,73.0,27.0
+Metal products,4,2016,75.9,24.1
+Metal products,1,2017,73.6,26.4
+Metal products,2,2017,74.0,26.0
+Metal products,3,2017,73.9,26.1
+Metal products,4,2017,75.0,25.0
+Metal products,1,2018,73.0,27.0
+Metal products,2,2018,74.0,26.0
+Metal products,3,2018,73.9,26.1
+Metal products,4,2018,73.7,26.3
+Metal products,1,2019,72.7,27.3
+Metal products,2,2019,74.5,25.5
+Metal products,3,2019,72.7,27.3
+Metal products,4,2019,72.2,27.8
+Metal products,1,2020,71.8,28.2
+Metal products,2,2020,44.3,55.7
+Metal products,3,2020,60.0,40.0
+Metal products,4,2020,71.5,28.5
+Metal products,1,2021,72.5,27.5
+Metal products,2,2021,74.6,25.4
+Metal products,3,2021,75.6,24.4
+Metal products,4,2021,74.5,25.5
+Machinery,4,2003,84.2,15.8
+Machinery,1,2004,83.6,16.4
+Machinery,2,2004,81.3,18.7
+Machinery,3,2004,83.5,16.5
+Machinery,4,2004,83.4,16.6
+Machinery,1,2005,85.0,15.0
+Machinery,2,2005,81.6,18.4
+Machinery,3,2005,86.6,13.4
+Machinery,4,2005,85.6,14.4
+Machinery,1,2006,84.4,15.6
+Machinery,2,2006,89.8,10.2
+Machinery,3,2006,90.1,10.0
+Machinery,4,2006,89.6,10.4
+Machinery,1,2007,90.4,9.7
+Machinery,2,2007,89.2,10.8
+Machinery,3,2007,88.3,11.7
+Machinery,4,2007,90.0,10.1
+Machinery,1,2008,88.4,11.6
+Machinery,2,2008,87.8,12.2
+Machinery,3,2008,87.4,12.6
+Machinery,4,2008,84.8,15.2
+Machinery,1,2009,75.8,24.2
+Machinery,2,2009,74.6,25.4
+Machinery,3,2009,73.6,26.4
+Machinery,4,2009,77.5,22.5
+Machinery,1,2010,78.3,21.7
+Machinery,2,2010,77.6,22.4
+Machinery,3,2010,78.5,21.5
+Machinery,4,2010,82.0,18.0
+Machinery,1,2011,79.6,20.4
+Machinery,2,2011,82.1,17.9
+Machinery,3,2011,83.6,16.4
+Machinery,4,2011,86.5,13.5
+Machinery,1,2012,84.6,15.4
+Machinery,2,2012,84.7,15.3
+Machinery,3,2012,83.2,16.8
+Machinery,4,2012,85.6,14.4
+Machinery,1,2013,82.0,18.0
+Machinery,2,2013,83.0,17.0
+Machinery,3,2013,83.5,16.5
+Machinery,4,2013,84.5,15.5
+Machinery,1,2014,81.5,18.5
+Machinery,2,2014,80.9,19.1
+Machinery,3,2014,81.7,18.3
+Machinery,4,2014,83.7,16.3
+Machinery,1,2015,82.2,17.8
+Machinery,2,2015,81.9,18.1
+Machinery,3,2015,82.4,17.6
+Machinery,4,2015,81.1,18.9
+Machinery,1,2016,82.2,17.8
+Machinery,2,2016,81.2,18.8
+Machinery,3,2016,80.5,19.5
+Machinery,4,2016,80.1,19.9
+Machinery,1,2017,81.1,18.9
+Machinery,2,2017,81.6,18.4
+Machinery,3,2017,80.7,19.3
+Machinery,4,2017,81.0,19.0
+Machinery,1,2018,79.3,20.7
+Machinery,2,2018,78.1,21.9
+Machinery,3,2018,79.0,21.0
+Machinery,4,2018,79.0,21.0
+Machinery,1,2019,79.0,21.0
+Machinery,2,2019,80.7,19.3
+Machinery,3,2019,77.9,22.1
+Machinery,4,2019,80.1,19.9
+Machinery,1,2020,78.2,21.8
+Machinery,2,2020,73.3,26.7
+Machinery,3,2020,76.0,24.0
+Machinery,4,2020,79.7,20.3
+Machinery,1,2021,77.9,22.1
+Machinery,2,2021,73.4,26.6
+Machinery,3,2021,73.0,27.0
+Machinery,4,2021,77.2,22.8
+"Radio, television and communication apparatus",4,2003,82.6,17.4
+"Radio, television and communication apparatus",1,2004,79.7,20.3
+"Radio, television and communication apparatus",2,2004,82.4,17.6
+"Radio, television and communication apparatus",3,2004,80.5,19.5
+"Radio, television and communication apparatus",4,2004,88.3,11.7
+"Radio, television and communication apparatus",1,2005,88.1,11.9
+"Radio, television and communication apparatus",2,2005,85.9,14.1
+"Radio, television and communication apparatus",3,2005,87.1,12.9
+"Radio, television and communication apparatus",4,2005,89.6,10.4
+"Radio, television and communication apparatus",1,2006,83.6,16.4
+"Radio, television and communication apparatus",2,2006,90.1,9.9
+"Radio, television and communication apparatus",3,2006,90.8,9.2
+"Radio, television and communication apparatus",4,2006,90.0,10.1
+"Radio, television and communication apparatus",1,2007,86.2,13.8
+"Radio, television and communication apparatus",2,2007,86.9,13.1
+"Radio, television and communication apparatus",3,2007,88.9,11.1
+"Radio, television and communication apparatus",4,2007,91.6,8.5
+"Radio, television and communication apparatus",1,2008,88.6,11.4
+"Radio, television and communication apparatus",2,2008,87.4,12.6
+"Radio, television and communication apparatus",3,2008,88.6,11.4
+"Radio, television and communication apparatus",4,2008,89.1,10.9
+"Radio, television and communication apparatus",1,2009,87.7,12.3
+"Radio, television and communication apparatus",2,2009,87.1,12.9
+"Radio, television and communication apparatus",3,2009,81.8,18.2
+"Radio, television and communication apparatus",4,2009,85.8,14.2
+"Radio, television and communication apparatus",1,2010,74.0,26.0
+"Radio, television and communication apparatus",2,2010,71.1,28.9
+"Radio, television and communication apparatus",3,2010,69.2,30.8
+"Radio, television and communication apparatus",4,2010,78.5,21.5
+"Radio, television and communication apparatus",1,2011,76.3,23.7
+"Radio, television and communication apparatus",2,2011,73.0,27.0
+"Radio, television and communication apparatus",3,2011,78.6,21.4
+"Radio, television and communication apparatus",4,2011,78.3,21.7
+"Radio, television and communication apparatus",1,2012,79.5,20.5
+"Radio, television and communication apparatus",2,2012,77.3,22.7
+"Radio, television and communication apparatus",3,2012,79.9,20.1
+"Radio, television and communication apparatus",4,2012,88.1,11.9
+"Radio, television and communication apparatus",1,2013,85.3,14.7
+"Radio, television and communication apparatus",2,2013,77.3,22.7
+"Radio, television and communication apparatus",3,2013,80.7,19.3
+"Radio, television and communication apparatus",4,2013,86.4,13.6
+"Radio, television and communication apparatus",1,2014,84.6,15.4
+"Radio, television and communication apparatus",2,2014,85.1,14.9
+"Radio, television and communication apparatus",3,2014,88.4,11.6
+"Radio, television and communication apparatus",4,2014,89.4,10.6
+"Radio, television and communication apparatus",1,2015,82.8,17.2
+"Radio, television and communication apparatus",2,2015,80.5,19.5
+"Radio, television and communication apparatus",3,2015,80.0,20.0
+"Radio, television and communication apparatus",4,2015,80.8,19.2
+"Radio, television and communication apparatus",1,2016,81.8,18.2
+"Radio, television and communication apparatus",2,2016,83.9,16.1
+"Radio, television and communication apparatus",3,2016,84.6,15.4
+"Radio, television and communication apparatus",4,2016,83.5,16.5
+"Radio, television and communication apparatus",1,2017,82.2,17.8
+"Radio, television and communication apparatus",2,2017,84.3,15.7
+"Radio, television and communication apparatus",3,2017,84.4,15.6
+"Radio, television and communication apparatus",4,2017,83.2,16.8
+"Radio, television and communication apparatus",1,2018,79.5,20.5
+"Radio, television and communication apparatus",2,2018,79.3,20.7
+"Radio, television and communication apparatus",3,2018,79.2,20.8
+"Radio, television and communication apparatus",4,2018,81.6,18.4
+"Radio, television and communication apparatus",1,2019,78.0,22.0
+"Radio, television and communication apparatus",2,2019,76.6,23.4
+"Radio, television and communication apparatus",3,2019,75.1,24.9
+"Radio, television and communication apparatus",4,2019,74.6,25.4
+"Radio, television and communication apparatus",1,2020,76.2,23.8
+"Radio, television and communication apparatus",2,2020,61.7,38.3
+"Radio, television and communication apparatus",3,2020,71.6,28.4
+"Radio, television and communication apparatus",4,2020,77.5,22.5
+"Radio, television and communication apparatus",1,2021,73.3,26.7
+"Radio, television and communication apparatus",2,2021,77.5,22.5
+"Radio, television and communication apparatus",3,2021,78.2,21.8
+"Radio, television and communication apparatus",4,2021,78.2,21.8
+Professional equipment,4,2003,86.7,13.3
+Professional equipment,1,2004,94.1,5.9
+Professional equipment,2,2004,94.1,5.9
+Professional equipment,3,2004,85.2,14.8
+Professional equipment,4,2004,80.5,19.5
+Professional equipment,1,2005,82.4,17.6
+Professional equipment,2,2005,82.9,17.1
+Professional equipment,3,2005,84.5,15.5
+Professional equipment,4,2005,87.7,12.3
+Professional equipment,1,2006,85.8,14.2
+Professional equipment,2,2006,85.6,14.5
+Professional equipment,3,2006,89.0,11.1
+Professional equipment,4,2006,89.6,10.4
+Professional equipment,1,2007,88.8,11.3
+Professional equipment,2,2007,89.5,10.6
+Professional equipment,3,2007,88.7,11.3
+Professional equipment,4,2007,88.9,11.1
+Professional equipment,1,2008,88.2,11.8
+Professional equipment,2,2008,88.8,11.2
+Professional equipment,3,2008,87.3,12.7
+Professional equipment,4,2008,86.2,13.8
+Professional equipment,1,2009,80.5,19.5
+Professional equipment,2,2009,84.4,15.6
+Professional equipment,3,2009,80.2,19.8
+Professional equipment,4,2009,86.7,13.4
+Professional equipment,1,2010,84.1,15.9
+Professional equipment,2,2010,86.0,14.0
+Professional equipment,3,2010,86.4,13.6
+Professional equipment,4,2010,83.8,16.2
+Professional equipment,1,2011,83.2,16.8
+Professional equipment,2,2011,84.8,15.2
+Professional equipment,3,2011,89.3,10.7
+Professional equipment,4,2011,91.0,9.0
+Professional equipment,1,2012,86.5,13.5
+Professional equipment,2,2012,88.5,11.5
+Professional equipment,3,2012,89.9,10.1
+Professional equipment,4,2012,90.6,9.4
+Professional equipment,1,2013,84.8,15.2
+Professional equipment,2,2013,85.7,14.3
+Professional equipment,3,2013,85.2,14.8
+Professional equipment,4,2013,88.6,11.4
+Professional equipment,1,2014,84.6,15.4
+Professional equipment,2,2014,84.7,15.3
+Professional equipment,3,2014,83.9,16.1
+Professional equipment,4,2014,86.5,13.5
+Professional equipment,1,2015,82.7,17.3
+Professional equipment,2,2015,84.1,15.9
+Professional equipment,3,2015,85.0,15.0
+Professional equipment,4,2015,87.8,12.2
+Professional equipment,1,2016,86.6,13.4
+Professional equipment,2,2016,85.6,14.4
+Professional equipment,3,2016,85.8,14.2
+Professional equipment,4,2016,87.0,13.0
+Professional equipment,1,2017,86.3,13.7
+Professional equipment,2,2017,87.2,12.8
+Professional equipment,3,2017,82.5,17.5
+Professional equipment,4,2017,87.0,13.0
+Professional equipment,1,2018,87.3,12.7
+Professional equipment,2,2018,82.3,17.7
+Professional equipment,3,2018,79.3,20.7
+Professional equipment,4,2018,82.6,17.4
+Professional equipment,1,2019,79.8,20.2
+Professional equipment,2,2019,80.7,19.3
+Professional equipment,3,2019,81.3,18.7
+Professional equipment,4,2019,82.0,18.0
+Professional equipment,1,2020,79.5,20.5
+Professional equipment,2,2020,60.3,39.7
+Professional equipment,3,2020,69.0,31.0
+Professional equipment,4,2020,82.0,18.0
+Professional equipment,1,2021,78.1,21.9
+Professional equipment,2,2021,81.6,18.4
+Professional equipment,3,2021,82.3,17.7
+Professional equipment,4,2021,83.4,16.6
+"Motor vehicles, parts and accessories",4,2003,77.5,22.5
+"Motor vehicles, parts and accessories",1,2004,80.3,19.7
+"Motor vehicles, parts and accessories",2,2004,82.8,17.2
+"Motor vehicles, parts and accessories",3,2004,84.2,15.8
+"Motor vehicles, parts and accessories",4,2004,86.2,13.8
+"Motor vehicles, parts and accessories",1,2005,77.6,22.4
+"Motor vehicles, parts and accessories",2,2005,85.1,14.9
+"Motor vehicles, parts and accessories",3,2005,87.0,13.0
+"Motor vehicles, parts and accessories",4,2005,88.9,11.1
+"Motor vehicles, parts and accessories",1,2006,88.5,11.5
+"Motor vehicles, parts and accessories",2,2006,88.7,11.3
+"Motor vehicles, parts and accessories",3,2006,88.6,11.4
+"Motor vehicles, parts and accessories",4,2006,91.1,8.9
+"Motor vehicles, parts and accessories",1,2007,90.7,9.3
+"Motor vehicles, parts and accessories",2,2007,89.2,10.8
+"Motor vehicles, parts and accessories",3,2007,88.3,11.7
+"Motor vehicles, parts and accessories",4,2007,87.7,12.3
+"Motor vehicles, parts and accessories",1,2008,86.6,13.4
+"Motor vehicles, parts and accessories",2,2008,83.3,16.7
+"Motor vehicles, parts and accessories",3,2008,83.1,16.9
+"Motor vehicles, parts and accessories",4,2008,79.5,20.5
+"Motor vehicles, parts and accessories",1,2009,69.7,30.3
+"Motor vehicles, parts and accessories",2,2009,68.7,31.3
+"Motor vehicles, parts and accessories",3,2009,66.7,33.3
+"Motor vehicles, parts and accessories",4,2009,75.2,24.8
+"Motor vehicles, parts and accessories",1,2010,73.7,26.3
+"Motor vehicles, parts and accessories",2,2010,77.8,22.2
+"Motor vehicles, parts and accessories",3,2010,71.8,28.2
+"Motor vehicles, parts and accessories",4,2010,85.1,14.9
+"Motor vehicles, parts and accessories",1,2011,81.4,18.6
+"Motor vehicles, parts and accessories",2,2011,77.3,22.7
+"Motor vehicles, parts and accessories",3,2011,82.1,17.9
+"Motor vehicles, parts and accessories",4,2011,80.4,19.6
+"Motor vehicles, parts and accessories",1,2012,81.0,19.0
+"Motor vehicles, parts and accessories",2,2012,85.3,14.7
+"Motor vehicles, parts and accessories",3,2012,85.1,14.9
+"Motor vehicles, parts and accessories",4,2012,85.9,14.1
+"Motor vehicles, parts and accessories",1,2013,82.3,17.7
+"Motor vehicles, parts and accessories",2,2013,84.9,15.1
+"Motor vehicles, parts and accessories",3,2013,72.1,27.9
+"Motor vehicles, parts and accessories",4,2013,86.1,13.9
+"Motor vehicles, parts and accessories",1,2014,79.3,20.7
+"Motor vehicles, parts and accessories",2,2014,80.0,20.0
+"Motor vehicles, parts and accessories",3,2014,84.4,15.6
+"Motor vehicles, parts and accessories",4,2014,84.0,16.0
+"Motor vehicles, parts and accessories",1,2015,79.9,20.1
+"Motor vehicles, parts and accessories",2,2015,83.2,16.8
+"Motor vehicles, parts and accessories",3,2015,80.7,19.3
+"Motor vehicles, parts and accessories",4,2015,83.9,16.1
+"Motor vehicles, parts and accessories",1,2016,81.9,18.1
+"Motor vehicles, parts and accessories",2,2016,81.7,18.3
+"Motor vehicles, parts and accessories",3,2016,83.7,16.3
+"Motor vehicles, parts and accessories",4,2016,83.2,16.8
+"Motor vehicles, parts and accessories",1,2017,81.6,18.4
+"Motor vehicles, parts and accessories",2,2017,82.2,17.8
+"Motor vehicles, parts and accessories",3,2017,84.6,15.4
+"Motor vehicles, parts and accessories",4,2017,83.4,16.6
+"Motor vehicles, parts and accessories",1,2018,82.9,17.1
+"Motor vehicles, parts and accessories",2,2018,83.9,16.1
+"Motor vehicles, parts and accessories",3,2018,84.3,15.7
+"Motor vehicles, parts and accessories",4,2018,85.6,14.4
+"Motor vehicles, parts and accessories",1,2019,83.9,16.1
+"Motor vehicles, parts and accessories",2,2019,84.9,15.1
+"Motor vehicles, parts and accessories",3,2019,84.6,15.4
+"Motor vehicles, parts and accessories",4,2019,82.0,18.0
+"Motor vehicles, parts and accessories",1,2020,82.2,17.8
+"Motor vehicles, parts and accessories",2,2020,47.1,52.9
+"Motor vehicles, parts and accessories",3,2020,68.7,31.3
+"Motor vehicles, parts and accessories",4,2020,80.7,19.3
+"Motor vehicles, parts and accessories",1,2021,82.0,18.0
+"Motor vehicles, parts and accessories",2,2021,82.1,17.9
+"Motor vehicles, parts and accessories",3,2021,73.3,26.7
+"Motor vehicles, parts and accessories",4,2021,83.3,16.7
+Other transport equipment,4,2003,75.2,24.8
+Other transport equipment,1,2004,80.0,20.0
+Other transport equipment,2,2004,71.3,28.7
+Other transport equipment,3,2004,72.9,27.1
+Other transport equipment,4,2004,75.3,24.7
+Other transport equipment,1,2005,77.0,23.0
+Other transport equipment,2,2005,77.5,22.5
+Other transport equipment,3,2005,71.1,28.9
+Other transport equipment,4,2005,70.0,30.0
+Other transport equipment,1,2006,74.4,25.6
+Other transport equipment,2,2006,73.2,26.8
+Other transport equipment,3,2006,75.7,24.3
+Other transport equipment,4,2006,70.3,29.8
+Other transport equipment,1,2007,78.9,21.1
+Other transport equipment,2,2007,77.9,22.1
+Other transport equipment,3,2007,76.0,24.0
+Other transport equipment,4,2007,79.4,20.6
+Other transport equipment,1,2008,76.9,23.1
+Other transport equipment,2,2008,82.0,18.0
+Other transport equipment,3,2008,80.7,19.3
+Other transport equipment,4,2008,78.8,21.2
+Other transport equipment,1,2009,76.8,23.2
+Other transport equipment,2,2009,82.1,17.9
+Other transport equipment,3,2009,84.0,16.1
+Other transport equipment,4,2009,76.7,23.3
+Other transport equipment,1,2010,78.1,21.9
+Other transport equipment,2,2010,78.3,21.7
+Other transport equipment,3,2010,79.1,20.9
+Other transport equipment,4,2010,77.6,22.4
+Other transport equipment,1,2011,73.5,26.5
+Other transport equipment,2,2011,80.5,19.5
+Other transport equipment,3,2011,81.3,18.7
+Other transport equipment,4,2011,76.2,23.8
+Other transport equipment,1,2012,73.9,26.1
+Other transport equipment,2,2012,79.3,20.7
+Other transport equipment,3,2012,80.6,19.4
+Other transport equipment,4,2012,80.5,19.5
+Other transport equipment,1,2013,80.2,19.8
+Other transport equipment,2,2013,79.3,20.7
+Other transport equipment,3,2013,80.9,19.1
+Other transport equipment,4,2013,81.5,18.5
+Other transport equipment,1,2014,78.5,21.5
+Other transport equipment,2,2014,71.0,29.0
+Other transport equipment,3,2014,73.1,26.9
+Other transport equipment,4,2014,72.5,27.5
+Other transport equipment,1,2015,79.9,20.1
+Other transport equipment,2,2015,69.5,30.5
+Other transport equipment,3,2015,68.6,31.4
+Other transport equipment,4,2015,75.1,24.9
+Other transport equipment,1,2016,79.9,20.1
+Other transport equipment,2,2016,74.5,25.5
+Other transport equipment,3,2016,70.7,29.3
+Other transport equipment,4,2016,68.1,31.9
+Other transport equipment,1,2017,65.2,34.8
+Other transport equipment,2,2017,70.6,29.4
+Other transport equipment,3,2017,74.7,25.3
+Other transport equipment,4,2017,75.7,24.3
+Other transport equipment,1,2018,72.7,27.3
+Other transport equipment,2,2018,78.7,21.3
+Other transport equipment,3,2018,66.5,33.5
+Other transport equipment,4,2018,68.2,31.8
+Other transport equipment,1,2019,62.9,37.1
+Other transport equipment,2,2019,61.8,38.2
+Other transport equipment,3,2019,62.1,37.9
+Other transport equipment,4,2019,62.4,37.6
+Other transport equipment,1,2020,62.1,37.9
+Other transport equipment,2,2020,31.0,69.0
+Other transport equipment,3,2020,57.9,42.1
+Other transport equipment,4,2020,63.3,36.7
+Other transport equipment,1,2021,60.7,39.3
+Other transport equipment,2,2021,60.4,39.6
+Other transport equipment,3,2021,61.7,38.3
+Other transport equipment,4,2021,65.3,34.7
+"Motor vehicles, trailers and parts and accessories",4,2003,77.2,22.8
+"Motor vehicles, trailers and parts and accessories",1,2004,80.3,19.7
+"Motor vehicles, trailers and parts and accessories",2,2004,81.5,18.5
+"Motor vehicles, trailers and parts and accessories",3,2004,82.9,17.1
+"Motor vehicles, trailers and parts and accessories",4,2004,84.8,15.2
+"Motor vehicles, trailers and parts and accessories",1,2005,77.5,22.5
+"Motor vehicles, trailers and parts and accessories",2,2005,84.5,15.5
+"Motor vehicles, trailers and parts and accessories",3,2005,85.5,14.5
+"Motor vehicles, trailers and parts and accessories",4,2005,87.3,12.7
+"Motor vehicles, trailers and parts and accessories",1,2006,87.4,12.6
+"Motor vehicles, trailers and parts and accessories",2,2006,87.3,12.7
+"Motor vehicles, trailers and parts and accessories",3,2006,87.5,12.5
+"Motor vehicles, trailers and parts and accessories",4,2006,89.2,10.8
+"Motor vehicles, trailers and parts and accessories",1,2007,89.7,10.3
+"Motor vehicles, trailers and parts and accessories",2,2007,88.2,11.8
+"Motor vehicles, trailers and parts and accessories",3,2007,87.2,12.8
+"Motor vehicles, trailers and parts and accessories",4,2007,86.9,13.1
+"Motor vehicles, trailers and parts and accessories",1,2008,85.6,14.4
+"Motor vehicles, trailers and parts and accessories",2,2008,83.1,16.9
+"Motor vehicles, trailers and parts and accessories",3,2008,82.9,17.1
+"Motor vehicles, trailers and parts and accessories",4,2008,79.5,20.5
+"Motor vehicles, trailers and parts and accessories",1,2009,70.3,29.7
+"Motor vehicles, trailers and parts and accessories",2,2009,69.8,30.2
+"Motor vehicles, trailers and parts and accessories",3,2009,68.3,31.7
+"Motor vehicles, trailers and parts and accessories",4,2009,75.2,24.8
+"Motor vehicles, trailers and parts and accessories",1,2010,74.4,25.6
+"Motor vehicles, trailers and parts and accessories",2,2010,77.9,22.1
+"Motor vehicles, trailers and parts and accessories",3,2010,72.9,27.1
+"Motor vehicles, trailers and parts and accessories",4,2010,83.9,16.1
+"Motor vehicles, trailers and parts and accessories",1,2011,80.2,19.8
+"Motor vehicles, trailers and parts and accessories",2,2011,77.8,22.2
+"Motor vehicles, trailers and parts and accessories",3,2011,82.0,18.0
+"Motor vehicles, trailers and parts and accessories",4,2011,79.8,20.2
+"Motor vehicles, trailers and parts and accessories",1,2012,79.8,20.2
+"Motor vehicles, trailers and parts and accessories",2,2012,84.3,15.7
+"Motor vehicles, trailers and parts and accessories",3,2012,84.4,15.6
+"Motor vehicles, trailers and parts and accessories",4,2012,85.0,15.0
+"Motor vehicles, trailers and parts and accessories",1,2013,82.1,17.9
+"Motor vehicles, trailers and parts and accessories",2,2013,84.0,16.0
+"Motor vehicles, trailers and parts and accessories",3,2013,73.6,26.4
+"Motor vehicles, trailers and parts and accessories",4,2013,85.3,14.7
+"Motor vehicles, trailers and parts and accessories",1,2014,79.1,20.9
+"Motor vehicles, trailers and parts and accessories",2,2014,78.3,21.7
+"Motor vehicles, trailers and parts and accessories",3,2014,82.4,17.6
+"Motor vehicles, trailers and parts and accessories",4,2014,81.9,18.1
+"Motor vehicles, trailers and parts and accessories",1,2015,79.8,20.2
+"Motor vehicles, trailers and parts and accessories",2,2015,81.1,18.9
+"Motor vehicles, trailers and parts and accessories",3,2015,79.0,21.0
+"Motor vehicles, trailers and parts and accessories",4,2015,82.5,17.5
+"Motor vehicles, trailers and parts and accessories",1,2016,81.5,18.5
+"Motor vehicles, trailers and parts and accessories",2,2016,80.5,19.5
+"Motor vehicles, trailers and parts and accessories",3,2016,81.7,18.3
+"Motor vehicles, trailers and parts and accessories",4,2016,80.8,19.2
+"Motor vehicles, trailers and parts and accessories",1,2017,79.0,21.0
+"Motor vehicles, trailers and parts and accessories",2,2017,80.4,19.6
+"Motor vehicles, trailers and parts and accessories",3,2017,83.0,17.0
+"Motor vehicles, trailers and parts and accessories",4,2017,82.1,17.9
+"Motor vehicles, trailers and parts and accessories",1,2018,81.3,18.7
+"Motor vehicles, trailers and parts and accessories",2,2018,83.0,17.0
+"Motor vehicles, trailers and parts and accessories",3,2018,81.5,18.5
+"Motor vehicles, trailers and parts and accessories",4,2018,82.7,17.3
+"Motor vehicles, trailers and parts and accessories",1,2019,80.6,19.4
+"Motor vehicles, trailers and parts and accessories",2,2019,81.3,18.7
+"Motor vehicles, trailers and parts and accessories",3,2019,81.1,18.9
+"Motor vehicles, trailers and parts and accessories",4,2019,78.9,21.1
+"Motor vehicles, trailers and parts and accessories",1,2020,79.0,21.0
+"Motor vehicles, trailers and parts and accessories",2,2020,44.5,55.5
+"Motor vehicles, trailers and parts and accessories",3,2020,67.1,32.9
+"Motor vehicles, trailers and parts and accessories",4,2020,78.0,22.0
+"Motor vehicles, trailers and parts and accessories",1,2021,78.6,21.4
+"Motor vehicles, trailers and parts and accessories",2,2021,78.7,21.3
+"Motor vehicles, trailers and parts and accessories",3,2021,71.5,28.5
+"Motor vehicles, trailers and parts and accessories",4,2021,80.5,19.5
+Other manufacturing groups (including tobacco products),4,2003,87.6,12.4
+Other manufacturing groups (including tobacco products),1,2004,90.6,9.4
+Other manufacturing groups (including tobacco products),2,2004,89.8,10.2
+Other manufacturing groups (including tobacco products),3,2004,91.9,8.1
+Other manufacturing groups (including tobacco products),4,2004,91.8,8.2
+Other manufacturing groups (including tobacco products),1,2005,90.2,9.8
+Other manufacturing groups (including tobacco products),2,2005,91.5,8.5
+Other manufacturing groups (including tobacco products),3,2005,90.5,9.5
+Other manufacturing groups (including tobacco products),4,2005,92.8,7.3
+Other manufacturing groups (including tobacco products),1,2006,91.4,8.6
+Other manufacturing groups (including tobacco products),2,2006,91.3,8.7
+Other manufacturing groups (including tobacco products),3,2006,92.6,7.4
+Other manufacturing groups (including tobacco products),4,2006,93.4,6.7
+Other manufacturing groups (including tobacco products),1,2007,92.5,7.5
+Other manufacturing groups (including tobacco products),2,2007,92.2,7.8
+Other manufacturing groups (including tobacco products),3,2007,93.4,6.6
+Other manufacturing groups (including tobacco products),4,2007,91.8,8.2
+Other manufacturing groups (including tobacco products),1,2008,91.0,9.0
+Other manufacturing groups (including tobacco products),2,2008,92.3,7.7
+Other manufacturing groups (including tobacco products),3,2008,92.0,8.0
+Other manufacturing groups (including tobacco products),4,2008,82.0,18.0
+Other manufacturing groups (including tobacco products),1,2009,80.4,19.6
+Other manufacturing groups (including tobacco products),2,2009,79.6,20.4
+Other manufacturing groups (including tobacco products),3,2009,81.3,18.7
+Other manufacturing groups (including tobacco products),4,2009,84.1,15.9
+Other manufacturing groups (including tobacco products),1,2010,88.6,11.4
+Other manufacturing groups (including tobacco products),2,2010,89.3,10.7
+Other manufacturing groups (including tobacco products),3,2010,89.7,10.3
+Other manufacturing groups (including tobacco products),4,2010,88.7,11.3
+Other manufacturing groups (including tobacco products),1,2011,81.8,18.2
+Other manufacturing groups (including tobacco products),2,2011,82.0,18.0
+Other manufacturing groups (including tobacco products),3,2011,86.0,14.0
+Other manufacturing groups (including tobacco products),4,2011,81.6,18.4
+Other manufacturing groups (including tobacco products),1,2012,77.5,22.5
+Other manufacturing groups (including tobacco products),2,2012,78.0,22.0
+Other manufacturing groups (including tobacco products),3,2012,80.5,19.5
+Other manufacturing groups (including tobacco products),4,2012,80.3,19.7
+Other manufacturing groups (including tobacco products),1,2013,77.3,22.7
+Other manufacturing groups (including tobacco products),2,2013,74.6,25.4
+Other manufacturing groups (including tobacco products),3,2013,81.6,18.4
+Other manufacturing groups (including tobacco products),4,2013,80.3,19.7
+Other manufacturing groups (including tobacco products),1,2014,76.4,23.6
+Other manufacturing groups (including tobacco products),2,2014,72.8,27.2
+Other manufacturing groups (including tobacco products),3,2014,79.4,20.6
+Other manufacturing groups (including tobacco products),4,2014,79.3,20.7
+Other manufacturing groups (including tobacco products),1,2015,76.9,23.1
+Other manufacturing groups (including tobacco products),2,2015,80.6,19.4
+Other manufacturing groups (including tobacco products),3,2015,77.2,22.8
+Other manufacturing groups (including tobacco products),4,2015,80.2,19.8
+Other manufacturing groups (including tobacco products),1,2016,81.6,18.4
+Other manufacturing groups (including tobacco products),2,2016,77.9,22.1
+Other manufacturing groups (including tobacco products),3,2016,79.7,20.3
+Other manufacturing groups (including tobacco products),4,2016,83.0,17.0
+Other manufacturing groups (including tobacco products),1,2017,80.6,19.4
+Other manufacturing groups (including tobacco products),2,2017,81.4,18.6
+Other manufacturing groups (including tobacco products),3,2017,78.7,21.3
+Other manufacturing groups (including tobacco products),4,2017,82.3,17.7
+Other manufacturing groups (including tobacco products),1,2018,78.5,21.5
+Other manufacturing groups (including tobacco products),2,2018,75.0,25.0
+Other manufacturing groups (including tobacco products),3,2018,80.4,19.6
+Other manufacturing groups (including tobacco products),4,2018,83.7,16.3
+Other manufacturing groups (including tobacco products),1,2019,76.9,23.1
+Other manufacturing groups (including tobacco products),2,2019,79.6,20.4
+Other manufacturing groups (including tobacco products),3,2019,81.3,18.7
+Other manufacturing groups (including tobacco products),4,2019,80.3,19.7
+Other manufacturing groups (including tobacco products),1,2020,81.3,18.7
+Other manufacturing groups (including tobacco products),2,2020,28.4,71.6
+Other manufacturing groups (including tobacco products),3,2020,75.9,24.1
+Other manufacturing groups (including tobacco products),4,2020,62.7,37.3
+Other manufacturing groups (including tobacco products),1,2021,74.1,25.9
+Other manufacturing groups (including tobacco products),2,2021,76.9,23.1
+Other manufacturing groups (including tobacco products),3,2021,83.9,16.1
+Other manufacturing groups (including tobacco products),4,2021,82.3,17.7
+Furniture,4,2003,82.7,17.3
+Furniture,1,2004,78.7,21.3
+Furniture,2,2004,86.5,13.5
+Furniture,3,2004,85.9,14.1
+Furniture,4,2004,90.8,9.2
+Furniture,1,2005,90.0,10.0
+Furniture,2,2005,88.0,12.0
+Furniture,3,2005,93.6,6.4
+Furniture,4,2005,95.7,4.3
+Furniture,1,2006,89.8,10.2
+Furniture,2,2006,93.1,6.9
+Furniture,3,2006,91.2,8.9
+Furniture,4,2006,96.2,3.8
+Furniture,1,2007,88.6,11.4
+Furniture,2,2007,90.1,9.9
+Furniture,3,2007,91.4,8.6
+Furniture,4,2007,95.0,5.0
+Furniture,1,2008,89.0,11.0
+Furniture,2,2008,87.4,12.6
+Furniture,3,2008,89.6,10.4
+Furniture,4,2008,94.3,5.7
+Furniture,1,2009,89.3,10.7
+Furniture,2,2009,88.8,11.2
+Furniture,3,2009,87.6,12.4
+Furniture,4,2009,94.2,5.8
+Furniture,1,2010,84.5,15.5
+Furniture,2,2010,86.0,14.0
+Furniture,3,2010,90.0,10.0
+Furniture,4,2010,94.7,5.3
+Furniture,1,2011,80.7,19.3
+Furniture,2,2011,82.7,17.3
+Furniture,3,2011,83.4,16.6
+Furniture,4,2011,90.6,9.4
+Furniture,1,2012,81.7,18.3
+Furniture,2,2012,87.1,12.9
+Furniture,3,2012,89.4,10.6
+Furniture,4,2012,93.7,6.3
+Furniture,1,2013,78.6,21.4
+Furniture,2,2013,86.0,14.0
+Furniture,3,2013,90.1,9.9
+Furniture,4,2013,91.9,8.1
+Furniture,1,2014,79.7,20.3
+Furniture,2,2014,89.9,10.1
+Furniture,3,2014,86.0,14.0
+Furniture,4,2014,90.5,9.5
+Furniture,1,2015,76.8,23.2
+Furniture,2,2015,76.6,23.4
+Furniture,3,2015,77.3,22.7
+Furniture,4,2015,88.9,11.1
+Furniture,1,2016,77.6,22.4
+Furniture,2,2016,79.4,20.6
+Furniture,3,2016,80.2,19.8
+Furniture,4,2016,88.6,11.4
+Furniture,1,2017,83.0,17.0
+Furniture,2,2017,84.9,15.1
+Furniture,3,2017,86.7,13.3
+Furniture,4,2017,87.0,13.0
+Furniture,1,2018,83.9,16.1
+Furniture,2,2018,86.0,14.0
+Furniture,3,2018,87.3,12.7
+Furniture,4,2018,87.3,12.7
+Furniture,1,2019,79.1,20.9
+Furniture,2,2019,85.7,14.3
+Furniture,3,2019,81.0,19.0
+Furniture,4,2019,83.6,16.4
+Furniture,1,2020,71.7,28.3
+Furniture,2,2020,42.5,57.5
+Furniture,3,2020,77.8,22.2
+Furniture,4,2020,79.4,20.6
+Furniture,1,2021,76.7,23.3
+Furniture,2,2021,78.0,22.0
+Furniture,3,2021,78.0,22.0
+Furniture,4,2021,79.3,20.7
+Furniture and other manufacturing industries,4,2003,86.2,13.8
+Furniture and other manufacturing industries,1,2004,87.4,12.6
+Furniture and other manufacturing industries,2,2004,88.9,11.1
+Furniture and other manufacturing industries,3,2004,90.4,9.6
+Furniture and other manufacturing industries,4,2004,91.5,8.5
+Furniture and other manufacturing industries,1,2005,90.1,9.9
+Furniture and other manufacturing industries,2,2005,90.6,9.4
+Furniture and other manufacturing industries,3,2005,91.4,8.6
+Furniture and other manufacturing industries,4,2005,93.3,6.7
+Furniture and other manufacturing industries,1,2006,91.1,8.9
+Furniture and other manufacturing industries,2,2006,91.8,8.2
+Furniture and other manufacturing industries,3,2006,92.2,7.8
+Furniture and other manufacturing industries,4,2006,94.1,5.9
+Furniture and other manufacturing industries,1,2007,91.5,8.5
+Furniture and other manufacturing industries,2,2007,91.7,8.3
+Furniture and other manufacturing industries,3,2007,92.9,7.1
+Furniture and other manufacturing industries,4,2007,92.5,7.5
+Furniture and other manufacturing industries,1,2008,90.4,9.6
+Furniture and other manufacturing industries,2,2008,91.1,8.9
+Furniture and other manufacturing industries,3,2008,91.4,8.6
+Furniture and other manufacturing industries,4,2008,84.9,15.1
+Furniture and other manufacturing industries,1,2009,82.6,17.4
+Furniture and other manufacturing industries,2,2009,81.8,18.2
+Furniture and other manufacturing industries,3,2009,83.0,17.0
+Furniture and other manufacturing industries,4,2009,86.6,13.4
+Furniture and other manufacturing industries,1,2010,87.4,12.6
+Furniture and other manufacturing industries,2,2010,88.5,11.5
+Furniture and other manufacturing industries,3,2010,89.8,10.2
+Furniture and other manufacturing industries,4,2010,90.6,9.4
+Furniture and other manufacturing industries,1,2011,81.5,18.5
+Furniture and other manufacturing industries,2,2011,82.3,17.7
+Furniture and other manufacturing industries,3,2011,85.3,14.7
+Furniture and other manufacturing industries,4,2011,84.0,16.0
+Furniture and other manufacturing industries,1,2012,78.7,21.3
+Furniture and other manufacturing industries,2,2012,80.8,19.2
+Furniture and other manufacturing industries,3,2012,83.1,16.9
+Furniture and other manufacturing industries,4,2012,84.3,15.7
+Furniture and other manufacturing industries,1,2013,77.7,22.3
+Furniture and other manufacturing industries,2,2013,78.8,21.2
+Furniture and other manufacturing industries,3,2013,84.6,15.4
+Furniture and other manufacturing industries,4,2013,84.4,15.6
+Furniture and other manufacturing industries,1,2014,77.6,22.4
+Furniture and other manufacturing industries,2,2014,78.5,21.5
+Furniture and other manufacturing industries,3,2014,81.6,18.4
+Furniture and other manufacturing industries,4,2014,83.2,16.8
+Furniture and other manufacturing industries,1,2015,76.8,23.2
+Furniture and other manufacturing industries,2,2015,79.8,20.2
+Furniture and other manufacturing industries,3,2015,77.2,22.8
+Furniture and other manufacturing industries,4,2015,81.8,18.2
+Furniture and other manufacturing industries,1,2016,80.8,19.2
+Furniture and other manufacturing industries,2,2016,78.1,21.9
+Furniture and other manufacturing industries,3,2016,79.8,20.2
+Furniture and other manufacturing industries,4,2016,84.1,15.9
+Furniture and other manufacturing industries,1,2017,80.9,19.1
+Furniture and other manufacturing industries,2,2017,82.0,18.0
+Furniture and other manufacturing industries,3,2017,80.3,19.7
+Furniture and other manufacturing industries,4,2017,83.1,16.9
+Furniture and other manufacturing industries,1,2018,79.7,20.3
+Furniture and other manufacturing industries,2,2018,77.2,22.8
+Furniture and other manufacturing industries,3,2018,81.8,18.2
+Furniture and other manufacturing industries,4,2018,84.4,15.6
+Furniture and other manufacturing industries,1,2019,77.3,22.7
+Furniture and other manufacturing industries,2,2019,80.8,19.2
+Furniture and other manufacturing industries,3,2019,81.4,18.6
+Furniture and other manufacturing industries,4,2019,81.1,18.9
+Furniture and other manufacturing industries,1,2020,79.3,20.7
+Furniture and other manufacturing industries,2,2020,31.1,68.9
+Furniture and other manufacturing industries,3,2020,76.3,23.7
+Furniture and other manufacturing industries,4,2020,66.2,33.8
+Furniture and other manufacturing industries,1,2021,74.6,25.4
+Furniture and other manufacturing industries,2,2021,77.2,22.8
+Furniture and other manufacturing industries,3,2021,82.7,17.3
+Furniture and other manufacturing industries,4,2021,81.7,18.3

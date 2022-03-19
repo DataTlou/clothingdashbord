@@ -6,6 +6,5 @@ The libraries used in this project are python libraries i.e.:
 - Pandas (Mainly used to clean the data)
 - Plotly-express (Used for visualisation)
 - Streamlit (Make the dashboard accessible online)
-<img src="DASHBOARD_PT1.png" height="180">
-<img src="DASHBOARD_PT1.png" height="180">
+<img src="DASHBOARD_PT1.png" height="180">  <img src="DASHBOARD_PT1.png" height="180">
 <img src="DASHBOARD_PT1.png" height="180">

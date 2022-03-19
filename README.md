@@ -1,4 +1,5 @@
 # Clothing Dashbord
+[![Streamlit App] (https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datatlou/clothingdashbord/app.py)
 ## Overview
 The data was downloaded from statssa, the original dataset includes stats on how industries utilised their manufactured products every quarter each year since 2003 in the fourth quarter. This dashboard only includes textiles, leather, footwear and wearing apparel industries.
 ## Libraries

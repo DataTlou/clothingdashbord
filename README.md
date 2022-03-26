@@ -1,8 +1,11 @@
 # Clothing Dashboard
 ## Overview
 The data was downloaded from statssa, the original dataset includes stats on how industries utilised their manufactured products every quarter each year since 2003 in the fourth quarter. This dashboard only includes textiles, leather, footwear and wearing apparel industries.
+## Languages
+- SQL for storing data in table and declaring data types
+- Python for data cleaning and visualisation
 ## Libraries
-The libraries used in this project are python libraries i.e.:
+The python libraries used in this project are python libraries i.e.:
 - Pandas (Mainly used to clean the data)
 - Plotly-express (Used for visualisation)
 - Streamlit (Make the dashboard accessible online)
